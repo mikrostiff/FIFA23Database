@@ -1,0 +1,1156 @@
+coach_id,coach_url,short_name,long_name,dob,nationality_id,nationality_name,face_url
+24,/coach/24/david-unsworth/,D. Unsworth,David Unsworth,1973-10-16,14,England,
+50,/coach/50/steven-gerrard/,S. Gerrard,Steven Gerrard,1980-05-30,14,England,https://cdn.sportmonks.com/images/soccer/players/18/50.png
+95,/coach/95/frank-lampard/,F. Lampard,Frank Lampard,1978-06-20,14,England,https://cdn.sportmonks.com/images/soccer/players/31/95.png
+121,/coach/121/carl-hoefkens/,C. Hoefkens,Carl Hoefkens,1978-10-05,7,Belgium,https://cdn.sportmonks.com/images//soccer/coaches/25/121.png
+123,/coach/123/matthew-etherington/,M. Etherington,Matthew Etherington,1981-08-14,14,England,https://cdn.sportmonks.com/images/soccer/players/27/123.png
+126,/coach/126/andy-dawson/,A. Dawson,Andy Dawson,1978-10-20,14,England,
+204,/coach/204/ki-hyeon-seol/,K. Seol,Ki-Hyeon Seol,1979-01-08,167,Korea Republic,https://cdn.sportmonks.com/images/soccer/players/12/204.png
+236,/coach/236/vincent-kompany/,V. Kompany,Vincent Kompany,1986-04-10,7,Belgium,https://cdn.sportmonks.com/images/soccer/players/12/236.png
+252,/coach/252/carlos-alberto-tevez/,C. Tevez,Carlos Alberto Tevez,1984-02-05,52,Argentina,https://cdn.sportmonks.com/images/soccer/players/28/252.png
+270,/coach/270/gary-oneil/,G. O'Neil,Gary O'Neil,1983-05-18,14,England,
+305,/coach/305/phil-neville/,P. Neville,Phil Neville,1977-01-21,14,England,https://cdn.sportmonks.com/images//soccer/coaches/17/305.png
+307,/coach/307/mikel-arteta-amatriain/,M. Arteta,Mikel Arteta Amatriain,1982-03-26,45,Spain,https://cdn.sportmonks.com/images/soccer/players/19/307.png
+380,/coach/380/emre-belozoglu/,E. Belözoğlu,Emre Belözoğlu,1980-09-07,48,Turkey,https://cdn.sportmonks.com/images/soccer/players/28/380.png
+382,/coach/382/damien-duff/,D. Duff,Damien Duff,1979-03-02,25,Republic of Ireland,https://cdn.sportmonks.com/images/soccer/players/30/382.png
+384,/coach/384/darren-moore/,D. Moore,Darren Moore,1974-04-22,14,England,
+468,/coach/468/wade-elliott/,W. Elliott,Wade Elliott,1978-12-14,14,England,https://cdn.sportmonks.com/images/soccer/players/20/468.png
+491,/coach/491/ian-ross-evatt/,I. Evatt,Ian Ross Evatt,1981-11-19,14,England,
+497,/coach/497/dirk-kuijt/,D. Kuijt,Dirk Kuijt,1980-07-22,34,Netherlands,https://cdn.sportmonks.com/images/soccer/players/17/497.png
+511,/coach/511/xabier-alonso-olano/,X. Alonso Olano,Xabier Alonso Olano,1981-11-25,45,Spain,https://cdn.sportmonks.com/images/soccer/players/31/511.png
+562,/coach/562/rob-edwards/,R. Edwards,Rob Edwards,1982-12-25,50,Wales,
+579,/coach/579/wayne-mark-rooney/,W. Rooney,Wayne Mark Rooney,1985-10-24,14,England,https://cdn.sportmonks.com/images/soccer/players/3/579.png
+607,/coach/607/gary-mcsheffrey/,G. McSheffrey,Gary McSheffrey,1982-08-13,14,England,
+611,/coach/611/mehdi-nafti/,M. Nafti,Mehdi Nafti,1978-11-28,145,Tunisia,
+618,/coach/618/liam-rosenior/,L. Rosenior,Liam Rosenior,1984-07-09,14,England,https://cdn.sportmonks.com/images/soccer/players/10/618.png
+645,/coach/645/michael-carrick/,M. Carrick,Michael Carrick,1981-07-28,14,England,https://cdn.sportmonks.com/images/soccer/players/5/645.png
+658,/coach/658/joey-barton/,J. Barton,Joey Barton,1982-09-02,14,England,https://cdn.sportmonks.com/images/soccer/players/18/658.png
+684,/coach/684/nick-montgomery/,N. Montgomery,Nick Montgomery,1981-10-28,42,Scotland,https://cdn.sportmonks.com/images/soccer/players/12/684.png
+781,/coach/781/gary-caldwell/,G. Caldwell,Gary Caldwell,1982-04-12,42,Scotland,
+869,/coach/869/steve-morison/,S. Morison,Steve Morison,1983-08-29,50,Wales,https://cdn.sportmonks.com/images/soccer/players/5/869.png
+904,/coach/904/russell-martin/,R. Martin,Russell Martin,1986-01-04,42,Scotland,https://cdn.sportmonks.com/images/soccer/players/8/904.png
+1198,/coach/1198/kelvin-davis/,K. Davis,Kelvin Davis,1976-09-29,14,England,https://cdn.sportmonks.com/images/soccer/players/14/1198.png
+1260,/coach/1260/mark-hudson/,M. Hudson,Mark Hudson,1982-03-30,14,England,
+1458,/coach/1458/michael-duff/,M. Duff,Michael Duff,1978-01-11,35,Northern Ireland,https://cdn.sportmonks.com/images/soccer/players/18/1458.png
+1600,/coach/1600/lee-johnson/,L. Johnson,Lee Johnson,1981-06-07,14,England,
+1621,/coach/1621/jim-goodwin/,J. Goodwin,Jim Goodwin,1981-11-20,25,Republic of Ireland,
+1631,/coach/1631/patrick-kisnorbo/,P. Kisnorbo,Patrick Kisnorbo,1981-03-24,195,Australia,https://cdn.sportmonks.com/images/soccer/players/31/1631.png
+1713,/coach/1713/zhi-zheng/,Z. Zheng,Zhi Zheng,1980-08-20,155,China PR,https://cdn.sportmonks.com/images/soccer/players/17/1713.png
+1742,/coach/1742/callum-davidson/,C. Davidson,Callum Davidson,1976-06-25,42,Scotland,https://cdn.sportmonks.com/images/soccer/players/14/1742.png
+1749,/coach/1749/grant-mccann/,G. McCann,Grant McCann,1980-04-14,35,Northern Ireland,https://cdn.sportmonks.com/images/soccer/players/21/1749.png
+1773,/coach/1773/wayne-brown/,W. Brown,Wayne Brown,1977-08-20,14,England,
+1819,/coach/1819/gareth-ainsworth/,G. Ainsworth,Gareth Ainsworth,1973-05-10,14,England,
+2003,/coach/2003/johnnie-jackson/,J. Jackson,Johnnie Jackson,1982-08-15,14,England,https://cdn.sportmonks.com/images/soccer/players/19/2003.png
+2103,/coach/2103/richard-wellens/,R. Wellens,Richard Wellens,1980-03-26,14,England,
+2133,/coach/2133/michael-john-flynn/,M. Flynn,Michael John Flynn,1980-10-17,50,Wales,
+2146,/coach/2146/john-eustace/,J. Eustace,John Eustace,1979-11-03,14,England,
+2151,/coach/2151/mark-fotheringham/,M. Fotheringham,Mark Fotheringham,1983-10-22,42,Scotland,
+2198,/coach/2198/mark-kennedy/,M. Kennedy,Mark Kennedy,1976-05-15,25,Republic of Ireland,
+2615,/coach/2615/colin-healy/,C. Healy,Colin Healy,1980-03-15,25,Republic of Ireland,
+2665,/coach/2665/david-gonzalez-giraldo/,D. González Giraldo,David González Giraldo,1982-07-20,56,Colombia,
+2733,/coach/2733/matthew-taylor/,M. Taylor,Matthew Taylor,1982-01-30,14,England,
+3038,/coach/3038/neil-harris/,N. Harris,Neil Harris,1977-07-12,14,England,
+3125,/coach/3125/tore-andre-flo/,T. Flo,Tore Andre Flo,1973-06-15,36,Norway,https://cdn.sportmonks.com/images/soccer/players/21/3125.png
+3311,/coach/3311/paul-warne/,P. Warne,Paul Warne,1973-05-08,14,England,
+3349,/coach/3349/danny-schofield/,D. Schofield,Danny Schofield,1980-04-10,14,England,
+3494,/coach/3494/lewis-jack-young/,L. Young,Lewis Jack Young,1989-09-27,14,England,
+3960,/coach/3960/bruno-berner/,B. Berner,Bruno Berner,1977-11-21,47,Switzerland,
+4115,/coach/4115/nuri-sahin/,N. Şahin,Nuri Şahin,1988-09-05,48,Turkey,https://cdn.sportmonks.com/images/soccer/players/19/4115.png
+4665,/coach/4665/steven-defour/,S. Defour,Steven Defour,1988-04-15,7,Belgium,https://cdn.sportmonks.com/images/soccer/players/25/4665.png
+5097,/coach/5097/robbie-neilson/,R. Neilson,Robbie Neilson,1980-06-19,42,Scotland,
+5159,/coach/5159/joao-miguel-da-cunha-teixeira/,Moreno,João Miguel da Cunha Teixeira,1981-08-19,38,Portugal,https://cdn.sportmonks.com/images/soccer/players/7/5159.png
+5224,/coach/5224/ruben-zadkovich/,R. Zadkovich,Ruben Zadkovich,1986-05-23,195,Australia,https://cdn.sportmonks.com/images/soccer/players/8/5224.png
+6711,/coach/6711/kevin-maher/,K. Maher,Kevin Maher,1976-10-17,25,Republic of Ireland,
+7016,/coach/7016/nathan-jones/,N. Jones,Nathan Jones,1973-05-28,50,Wales,
+7101,/coach/7101/steven-schumacher/,S. Schumacher,Steven Schumacher,1984-04-30,14,England,
+7464,/coach/7464/matt-bloomfield/,M. Bloomfield,Matt Bloomfield,1984-02-08,14,England,
+8170,/coach/8170/ryan-lowe/,R. Lowe,Ryan Lowe,1978-09-18,14,England,https://cdn.sportmonks.com/images/soccer/players/10/8170.png
+9882,/coach/9882/graham-coughlan/,G. Coughlan,Graham Coughlan,1974-11-18,25,Republic of Ireland,
+10127,/coach/10127/paul-heckingbottom/,P. Heckingbottom,Paul Heckingbottom,1977-07-17,14,England,
+10629,/coach/10629/kevin-nicholson/,K. Nicholson,Kevin Nicholson,1980-10-02,14,England,
+10631,/coach/10631/chris-hargreaves/,C. Hargreaves,Chris Hargreaves,1972-12-05,14,England,
+11018,/coach/11018/dino-maamria/,D. Maamria,Dino Maamria,1971-05-26,14,England,
+15322,/coach/15322/scott-lindsey/,S. Lindsey,Scott Lindsey,1972-05-04,14,England,
+16436,/coach/16436/daryl-mcmahon/,D. McMahon,Daryl McMahon,1982-10-10,25,Republic of Ireland,
+20284,/coach/20284/darren-kelly/,D. Kelly,Darren Kelly,1979-06-30,35,Northern Ireland,
+22909,/coach/22909/gabriel-francisco-garcia-de-la-torre/,G. García de la Torre,Gabriel Francisco García de la Torre,1979-02-10,45,Spain,https://cdn.sportmonks.com/images/soccer/players/29/22909.png
+23029,/coach/23029/phillip-cocu/,P. Cocu,Phillip Cocu,1970-10-29,34,Netherlands,
+23174,/coach/23174/jon-dahl-tomasson/,J. Dahl Tomasson,Jon Dahl Tomasson,1976-08-29,13,Denmark,
+23180,/coach/23180/arne-slot/,A. Slot,Arne Slot,1978-09-17,34,Netherlands,https://cdn.sportmonks.com/images/soccer/players/12/23180.png
+23237,/coach/23237/giovanni-van-bronckhorst/,G. van Bronckhorst,Giovanni van Bronckhorst,1975-02-05,34,Netherlands,https://cdn.sportmonks.com/images//soccer/coaches/5/23237.png
+23247,/coach/23247/stephan-keller/,S. Keller,Stephan Keller,1979-05-31,47,Switzerland,
+23316,/coach/23316/danny-buijs/,D. Buijs,Danny Buijs,1982-06-21,34,Netherlands,
+23395,/coach/23395/rick-kruijs/,R. Kruijs,Rick Kruijs,1985-05-09,34,Netherlands,
+23435,/coach/23435/alfred-schreuder/,A. Schreuder,Alfred Schreuder,1972-02-11,34,Netherlands,
+23440,/coach/23440/sinan-kaloglu/,S. Kaloglu,Sinan Kaloglu,1981-06-10,48,Turkey,
+23707,/coach/23707/rogier-meijer/,R. Meijer,Rogier Meijer,1981-09-05,34,Netherlands,
+23716,/coach/23716/kevin-hofland/,K. Hofland,Kevin Hofland,1979-07-06,34,Netherlands,https://cdn.sportmonks.com/images/soccer/players/4/23716.png
+23990,/coach/23990/arnar-vidharsson/,A. Viðarsson,Arnar Viðarsson,1978-03-15,24,Iceland,https://cdn.sportmonks.com/images/soccer/players/22/23990.png
+24381,/coach/24381/mark-van-bommel/,M. van Bommel,Mark van Bommel,1977-04-22,34,Netherlands,https://cdn.sportmonks.com/images/soccer/players/29/24381.png
+29535,/coach/29535/bo-svensson/,B. Svensson,Bo Svensson,1979-08-04,13,Denmark,https://cdn.sportmonks.com/images/soccer/players/31/29535.png
+29560,/coach/29560/miroslav-klose/,M. Klose,Miroslav Klose,1978-06-09,21,Germany,https://cdn.sportmonks.com/images/soccer/players/24/29560.png
+29608,/coach/29608/ludovic-magnin/,L. Magnin,Ludovic Magnin,1979-04-20,47,Switzerland,
+29612,/coach/29612/alexander-frei/,A. Frei,Alexander Frei,1979-07-15,47,Switzerland,https://cdn.sportmonks.com/images/soccer/players/12/29612.png
+29621,/coach/29621/thomas-brdaric/,T. Brdarić,Thomas Brdarić,1975-01-23,21,Germany,
+29676,/coach/29676/steffen-baumgart/,S. Baumgart,Steffen Baumgart,1972-01-05,21,Germany,
+29710,/coach/29710/marco-rose/,M. Rose,Marco Rose,1976-09-11,21,Germany,https://cdn.sportmonks.com/images//soccer/coaches/14/29710.png
+29740,/coach/29740/timo-rost/,T. Rost,Timo Rost,1978-08-29,21,Germany,
+29838,/coach/29838/steven-cherundolo/,S. Cherundolo,Steven Cherundolo,1979-02-19,95,United States,https://cdn.sportmonks.com/images/soccer/players/14/29838.png
+29839,/coach/29839/christoph-dabrowski/,C. Dabrowski,Christoph Dabrowski,1978-07-01,21,Germany,https://cdn.sportmonks.com/images/soccer/players/15/29839.png
+30044,/coach/30044/christian-eichner/,C. Eichner,Christian Eichner,1982-11-24,21,Germany,https://cdn.sportmonks.com/images/soccer/players/28/30044.png
+30143,/coach/30143/thomas-kleine/,T. Kleine,Thomas Kleine,1977-12-28,21,Germany,https://cdn.sportmonks.com/images/soccer/players/31/30143.png
+30314,/coach/30314/matthias-jaissle/,M. Jaissle,Matthias Jaissle,1988-04-05,21,Germany,https://cdn.sportmonks.com/images/soccer/players/10/30314.png
+30462,/coach/30462/cagdas-atan/,Ç. Atan,Çagdas Atan,1980-02-29,48,Turkey,
+30572,/coach/30572/alexander-voigt/,A. Voigt,Alexander Voigt,1978-04-13,21,Germany,
+30963,/coach/30963/ruud-van-nistelrooy/,R. van Nistelrooy,Ruud van Nistelrooy,1976-01-07,34,Netherlands,https://cdn.sportmonks.com/images/soccer/players/19/30963.png
+30996,/coach/30996/sandro-wagner/,S. Wagner,Sandro Wagner,1987-11-29,21,Germany,https://cdn.sportmonks.com/images/soccer/players/20/30996.png
+31151,/coach/31151/timo-schultz/,T. Schultz,Timo Schultz,1977-08-26,21,Germany,
+31205,/coach/31205/jonas-de-roeck/,J. De Roeck,Jonas De Roeck,1979-12-20,7,Belgium,https://cdn.sportmonks.com/images/soccer/players/5/31205.png
+31312,/coach/31312/ovidiu-nicusor-burca/,O. Burca,Ovidiu Nicusor Burca,1980-03-16,39,Romania,
+33148,/coach/33148/rudiger-ziehl/,R. Ziehl,Rüdiger Ziehl,1977-10-26,21,Germany,
+33182,/coach/33182/stefan-leitl/,S. Leitl,Stefan Leitl,1977-08-29,21,Germany,https://cdn.sportmonks.com/images/soccer/players/30/33182.png
+33212,/coach/33212/daniel-thioune/,D. Thioune,Daniel Thioune,1974-07-21,21,Germany,
+35399,/coach/35399/marcel-rapp/,M. Rapp,Marcel Rapp,1979-04-16,21,Germany,
+35472,/coach/35472/tobias-schweinsteiger/,T. Schweinsteiger,Tobias Schweinsteiger,1982-03-12,21,Germany,https://cdn.sportmonks.com/images/soccer/players/16/35472.png
+35564,/coach/35564/mersad-selimbegovic/,M. Selimbegovic,Mersad Selimbegovic,1982-04-29,8,Bosnia and Herzegovina,
+35571,/coach/35571/alexander-blessin/,A. Blessin,Alexander Blessin,1973-05-28,21,Germany,
+36891,/coach/36891/michael-schiele/,M. Schiele,Michael Schiele,1978-03-03,21,Germany,
+38226,/coach/38226/dario-fossi/,D. Fossi,Dario Fossi,1981-05-21,27,Italy,
+38879,/coach/38879/sargon-duran/,S. Duran,Sargon Duran,1987-01-31,4,Austria,https://cdn.sportmonks.com/images/soccer/players/31/38879.png
+38927,/coach/38927/enrico-maassen/,E. Maaßen,Enrico Maaßen,1984-03-10,21,Germany,https://cdn.sportmonks.com/images//soccer/coaches/15/38927.png
+39433,/coach/39433/michel-kniat/,M. Kniat,Michél Kniat,1985-11-18,21,Germany,
+45305,/coach/45305/pellegrino-matarazzo/,P. Matarazzo,Pellegrino Matarazzo,1977-11-28,95,United States,https://cdn.sportmonks.com/images//soccer/coaches/25/45305.png
+51306,/coach/51306/ferdinand-feldhofer/,F. Feldhofer,Ferdinand Feldhofer,1979-10-23,4,Austria,https://cdn.sportmonks.com/images/soccer/players/10/51306.png
+51459,/coach/51459/mattias-lindstrom/,M. Lindström,Mattias Lindström,1980-04-18,46,Sweden,https://cdn.sportmonks.com/images/soccer/players/3/51459.png
+51518,/coach/51518/oliver-glasner/,O. Glasner,Oliver Glasner,1974-08-28,4,Austria,https://cdn.sportmonks.com/images//soccer/coaches/30/51518.png
+60268,/coach/60268/adnan-custovic/,A. Čustović,Adnan Čustović,1978-04-16,8,Bosnia and Herzegovina,
+60303,/coach/60303/ivan-leko/,I. Leko,Ivan Leko,1978-02-07,10,Croatia,https://cdn.sportmonks.com/images/soccer/players/15/60303.png
+60307,/coach/60307/karel-geraerts/,K. Geraerts,Karel Geraerts,1982-01-05,7,Belgium,https://cdn.sportmonks.com/images/soccer/players/19/60307.png
+60361,/coach/60361/mbaye-leye/,M. Leye,M'Baye Leye,1982-12-01,136,Senegal,https://cdn.sportmonks.com/images/soccer/players/9/60361.png
+60393,/coach/60393/ivan-vukomanovic/,I. Vukomanovic,Ivan Vukomanovic,1977-06-19,51,Serbia,
+60851,/coach/60851/wim-de-decker/,W. De Decker,Wim De Decker,1982-04-06,7,Belgium,https://cdn.sportmonks.com/images/soccer/players/19/60851.png
+79289,/coach/79289/marcel-liczka/,M. Liczka,Marcel Liczka,1977-07-17,12,Czech Republic,
+82956,/coach/82956/henrik-hansen/,H. Hansen,Henrik Hansen,1979-07-28,13,Denmark,https://cdn.sportmonks.com/images/soccer/players/12/82956.png
+82974,/coach/82974/brian-priske-pedersen/,B. Priske Pedersen,Brian Priske Pedersen,1977-05-14,13,Denmark,
+84240,/coach/84240/martin-thomsen/,M. Thomsen,Martin Thomsen,1982-08-06,13,Denmark,https://cdn.sportmonks.com/images/soccer/players/16/84240.png
+90958,/coach/90958/toni-koskela/,T. Koskela,Toni Koskela,1983-02-16,17,Finland,
+94064,/coach/94064/laurent-batlles/,L. Batlles,Laurent Batlles,1975-09-23,18,France,
+94105,/coach/94105/cristiano-marques-gomes/,C. Marques Gomes,Cristiano Marques Gomes,1977-06-03,54,Brazil,https://cdn.sportmonks.com/images/soccer/players/25/94105.png
+94233,/coach/94233/vincent-hognon/,V. Hognon,Vincent Hognon,1974-08-16,18,France,
+94328,/coach/94328/paulo-cesar-da-silva-peixoto/,P. da Silva Peixoto,Paulo César da Silva Peixoto,1980-05-12,38,Portugal,https://cdn.sportmonks.com/images/soccer/players/24/94328.png
+94341,/coach/94341/stephane-dumont/,S. Dumont,Stéphane Dumont,1982-06-09,18,France,
+94363,/coach/94363/romain-pitau/,R. Pitau,Romain Pitau,1977-08-08,18,France,https://cdn.sportmonks.com/images/soccer/players/27/94363.png
+94389,/coach/94389/olivier-echouafni/,O. Echouafni,Olivier Echouafni,1972-09-13,18,France,
+94575,/coach/94575/fabio-grosso/,F. Grosso,Fabio Grosso,1977-11-28,27,Italy,
+94983,/coach/94983/nicolas-rabuel/,N. Rabuel,Nicolas Rabuel,1978-01-15,18,France,
+95058,/coach/95058/luis-oscar-gonzalez/,L. González,Luis Oscar González,1981-01-19,52,Argentina,https://cdn.sportmonks.com/images/soccer/players/18/95058.png
+95070,/coach/95070/omar-daf/,O. Daf,Omar Daf,1977-02-12,136,Senegal,
+95212,/coach/95212/bruno-grougi/,B. Grougi,Bruno Grougi,1983-04-26,18,France,https://cdn.sportmonks.com/images/soccer/players/12/95212.png
+95726,/coach/95726/thiago-motta/,T. Motta,Thiago Motta,1982-08-28,27,Italy,https://cdn.sportmonks.com/images/soccer/players/14/95726.png
+95782,/coach/95782/adrian-mutu/,A. Mutu,Adrian Mutu,1979-01-08,39,Romania,https://cdn.sportmonks.com/images/soccer/players/6/95782.png
+97208,/coach/97208/olivier-guegan/,O. Guégan,Olivier Guégan,1972-08-20,18,France,
+98545,/coach/98545/ande-dona-ndoh/,A. Dona N'Doh,Ande Dona N'Doh,1986-05-22,103,Cameroon,https://cdn.sportmonks.com/images/soccer/players/17/98545.png
+99512,/coach/99512/fabien-valeri/,F. Valeri,Fabien Valeri,1974-09-06,18,France,
+101150,/coach/101150/stephane-masala/,S. Masala,Stéphane Masala,1976-08-30,18,France,https://cdn.sportmonks.com/images/soccer/players/30/101150.png
+107256,/coach/107256/israel-alejandro-damonte/,I. Damonte,Israel Alejandro Damonte,1982-01-06,52,Argentina,
+107635,/coach/107635/nicolae-constantin-dica/,N. Dică,Nicolae Constantin Dică,1980-05-09,39,Romania,https://cdn.sportmonks.com/images/soccer/players/19/107635.png
+107983,/coach/107983/erol-bulut/,E. Bulut,Erol Bulut,1975-01-30,48,Turkey,
+108499,/coach/108499/aleksandar-vukovic/,A. Vukovic,Aleksandar Vukovic,1979-08-25,51,Serbia,
+108880,/coach/108880/vasco-manuel-vilhena-faisca-teixeira/,V. Faisca Teixeira,Vasco Manuel Vilhena Faisca Teixeira,1980-08-27,38,Portugal,https://cdn.sportmonks.com/images/soccer/players/16/108880.png
+109688,/coach/109688/diego-hernan-martinez/,D. Martínez,Diego Hernán Martínez,1978-11-16,52,Argentina,
+117955,/coach/117955/jacob-neestrup-hansen/,J. Neestrup Hansen,Jacob Neestrup Hansen,1988-08-03,13,Denmark,
+120315,/coach/120315/ruaidhri-higgins/,R. Higgins,Ruaidhri Higgins,1984-10-23,35,Northern Ireland,
+120469,/coach/120469/john-russell/,J. Russell,John Russell,1985-05-18,25,Republic of Ireland,https://cdn.sportmonks.com/images/soccer/players/21/120469.png
+120550,/coach/120550/andrew-myler/,A. Myler,Andrew Myler,1975-02-12,25,Republic of Ireland,
+120668,/coach/120668/ian-ryan/,I. Ryan,Ian Ryan,1987-06-09,25,Republic of Ireland,https://cdn.sportmonks.com/images/soccer/players/28/120668.png
+120714,/coach/120714/gary-cronin/,G. Cronin,Gary Cronin,1979-03-16,25,Republic of Ireland,https://cdn.sportmonks.com/images/soccer/players/10/120714.png
+120775,/coach/120775/stephen-bradley/,S. Bradley,Stephen Bradley,1984-11-19,25,Republic of Ireland,https://cdn.sportmonks.com/images/soccer/players/7/120775.png
+121795,/coach/121795/tim-clancy/,T. Clancy,Tim Clancy,1984-06-08,25,Republic of Ireland,https://cdn.sportmonks.com/images/soccer/players/3/121795.png
+122306,/coach/122306/tommy-barrett/,T. Barrett,Tommy Barrett,1979-05-20,25,Republic of Ireland,
+126283,/coach/126283/mihai-doru-pintilii/,M. Pintilii,Mihai Doru Pintilii,1984-11-09,39,Romania,https://cdn.sportmonks.com/images/soccer/players/11/126283.png
+127492,/coach/127492/eugenio-corini/,E. Corini,Eugenio Corini,1970-07-30,27,Italy,
+127495,/coach/127495/filippo-inzaghi/,F. Inzaghi,Filippo Inzaghi,1973-08-09,27,Italy,
+127536,/coach/127536/mario-frick/,M. Frick,Mario Frick,1974-09-07,29,Liechtenstein,
+127593,/coach/127593/sebastiano-siviglia/,S. Siviglia,Sebastiano Siviglia,1973-03-29,27,Italy,
+127597,/coach/127597/dejan-stankovic/,D. Stankovic,Dejan Stankovic,1978-11-09,51,Serbia,https://cdn.sportmonks.com/images/soccer/players/13/127597.png
+127611,/coach/127611/lionel-sebastian-scaloni/,L. Scaloni,Lionel Sebastián Scaloni,1978-05-16,52,Argentina,https://cdn.sportmonks.com/images/soccer/players/27/127611.png
+127616,/coach/127616/paolo-zanetti/,P. Zanetti,Paolo Zanetti,1982-12-16,27,Italy,https://cdn.sportmonks.com/images//soccer/coaches/0/127616.png
+127617,/coach/127617/leonardo-colucci/,L. Colucci,Leonardo Colucci,1972-12-29,27,Italy,
+127889,/coach/127889/roberto-de-zerbi/,R. De Zerbi,Roberto De Zerbi,1979-06-06,27,Italy,
+127965,/coach/127965/ivan-gennaro-gattuso/,I. Gattuso,Ivan Gennaro Gattuso,1978-01-09,27,Italy,https://cdn.sportmonks.com/images/soccer/players/29/127965.png
+127980,/coach/127980/ivan-juric/,I. Juric,Ivan Juric,1975-08-25,10,Croatia,https://cdn.sportmonks.com/images//soccer/coaches/12/127980.png
+127989,/coach/127989/andrea-pirlo/,A. Pirlo,Andrea Pirlo,1979-05-19,27,Italy,https://cdn.sportmonks.com/images/soccer/players/21/127989.png
+128013,/coach/128013/fabio-liverani/,F. Liverani,Fabio Liverani,1976-04-29,27,Italy,
+128160,/coach/128160/simone-inzaghi/,S. Inzaghi,Simone Inzaghi,1976-04-05,27,Italy,https://cdn.sportmonks.com/images//soccer/coaches/0/128160.png
+128211,/coach/128211/christian-bucchi/,C. Bucchi,Christian Bucchi,1977-02-13,27,Italy,
+128261,/coach/128261/vincenzo-italiano/,V. Italiano,Vincenzo Italiano,1977-12-10,27,Italy,
+128295,/coach/128295/raffaele-palladino/,R. Palladino,Raffaele Palladino,1984-04-17,27,Italy,https://cdn.sportmonks.com/images/soccer/players/7/128295.png
+128419,/coach/128419/fabio-cannavaro/,F. Cannavaro,Fabio Cannavaro,1973-09-13,27,Italy,
+128470,/coach/128470/massimo-paci/,M. Paci,Massimo Paci,1978-05-09,27,Italy,https://cdn.sportmonks.com/images/soccer/players/22/128470.png
+128851,/coach/128851/fernando-ruben-gago/,F. Gago,Fernando Rubén Gago,1986-04-10,52,Argentina,https://cdn.sportmonks.com/images/soccer/players/19/128851.png
+130523,/coach/130523/gennaro-volpe/,G. Volpe,Gennaro Volpe,1981-02-17,27,Italy,https://cdn.sportmonks.com/images/soccer/players/27/130523.png
+130528,/coach/130528/fabio-pecchia/,F. Pecchia,Fabio Pecchia,1973-08-24,27,Italy,
+130911,/coach/130911/daniele-di-donato/,D. Di Donato,Daniele Di Donato,1977-02-21,27,Italy,
+130912,/coach/130912/michele-mignani/,M. Mignani,Michele Mignani,1972-04-30,27,Italy,
+131125,/coach/131125/edoardo-gorini/,E. Gorini,Edoardo Gorini,1974-02-28,27,Italy,
+133534,/coach/133534/gustavo-adolfo-munua-vera/,G. Munúa Vera,Gustavo Adolfo Munúa Vera,1978-01-27,60,Uruguay,https://cdn.sportmonks.com/images/soccer/players/30/133534.png
+134562,/coach/134562/marius-marian-croitoru/,M. Croitoru,Marius Marian Croitoru,1980-10-02,39,Romania,https://cdn.sportmonks.com/images/soccer/players/2/134562.png
+149815,/coach/149815/magnus-powell/,M. Powell,Magnus Powell,1974-10-28,46,Sweden,
+152113,/coach/152113/kevin-andrew-nicol/,K. Nicol,Kevin Andrew Nicol,1982-01-19,42,Scotland,
+152235,/coach/152235/eirik-horneland/,E. Horneland,Eirik Horneland,1975-03-14,36,Norway,
+153793,/coach/153793/wojciech-lobodzinski/,W. Łobodziński,Wojciech Łobodziński,1982-10-20,37,Poland,
+153980,/coach/153980/pavol-stano/,P. Stano,Pavol Stano,1977-09-29,43,Slovakia,https://cdn.sportmonks.com/images/soccer/players/28/153980.png
+154013,/coach/154013/maciej-stolarczyk/,M. Stolarczyk,Maciej Stolarczyk,1972-01-15,37,Poland,
+154225,/coach/154225/ivan-djurdjevic/,I. Djurdjevic,Ivan Djurdjevic,1977-02-05,51,Serbia,
+154313,/coach/154313/dariusz-dudek/,D. Dudek,Dariusz Dudek,1975-04-08,37,Poland,
+154708,/coach/154708/kamil-kuzera/,K. Kuzera,Kamil Kuzera,1983-03-11,37,Poland,https://cdn.sportmonks.com/images/soccer/players/20/154708.png
+156328,/coach/156328/adam-majewski/,A. Majewski,Adam Majewski,1973-12-24,37,Poland,
+158158,/coach/158158/ruben-filipe-marques-amorim/,R. Amorim,Ruben Filipe Marques Amorim,1985-01-27,38,Portugal,https://cdn.sportmonks.com/images/soccer/players/14/158158.png
+158416,/coach/158416/eduardo-godinho-felipe-de-souza/,E. Felipe de Souza,Eduardo Godinho Felipe de Souza,1981-03-08,54,Brazil,
+160758,/coach/160758/nelson-alexandre-da-silva-verissimo/,N. da Silva Veríssimo,Nelson Alexandre da Silva Veríssimo,1977-04-17,38,Portugal,
+163533,/coach/163533/laszlo-gyorgy-balint/,L. Balint,László György Balint,1979-03-29,39,Romania,
+163559,/coach/163559/nicolae-constantin/,N. Constantin,Nicolae Constantin,1973-12-09,39,Romania,
+163560,/coach/163560/marius-constantin-maldarasanu/,M. Măldărăşanu,Marius Constantin Măldărăşanu,1975-04-19,39,Romania,
+163593,/coach/163593/ilie-poenaru/,I. Poenaru,Ilie Poenaru,1976-11-11,39,Romania,
+163743,/coach/163743/mirel-matei-radoi/,M. Radoi,Mirel Matei Radoi,1981-03-22,39,Romania,https://cdn.sportmonks.com/images/soccer/players/31/163743.png
+164110,/coach/164110/abel-gomez-moreno/,A. Gómez Moreno,Abel Gómez Moreno,1982-02-20,45,Spain,https://cdn.sportmonks.com/images/soccer/players/14/164110.png
+166465,/coach/166465/george-anmare/,G. ?an?mare,George ?an?mare,1983-06-24,39,Romania,
+169214,/coach/169214/sergei-semak/,S. Semak,Sergei Semak,1976-02-27,40,Russia,https://cdn.sportmonks.com/images/soccer/players/30/169214.png
+169272,/coach/169272/roman-sharonov/,R. Sharonov,Roman Sharonov,1976-09-08,40,Russia,https://cdn.sportmonks.com/images/soccer/players/24/169272.png
+170857,/coach/170857/denis-popov/,D. Popov,Denis Popov,1979-02-04,40,Russia,
+171174,/coach/171174/evgeniy-kaleshin/,E. Kaleshin,Evgeniy Kaleshin,1978-06-20,40,Russia,
+171254,/coach/171254/aleksandr-storozhuk/,A. Storozhuk,Aleksandr Storozhuk,1981-08-10,40,Russia,
+171725,/coach/171725/scott-brown/,S. Brown,Scott Brown,1985-06-25,42,Scotland,https://cdn.sportmonks.com/images/soccer/players/13/171725.png
+171828,/coach/171828/jack-ross/,J. Ross,Jack Ross,1976-06-05,42,Scotland,
+171878,/coach/171878/steven-hammell/,S. Hammell,Steven Hammell,1982-02-18,42,Scotland,https://cdn.sportmonks.com/images/soccer/players/6/171878.png
+173023,/coach/173023/alex-neil/,A. Neil,Alex Neil,1981-06-09,42,Scotland,
+184785,/coach/184785/fabio-celestini/,F. Celestini,Fabio Celestini,1975-10-31,47,Switzerland,
+184794,/coach/184794/sergio-gonzalez-soriano/,S. González Soriano,Sergio González Soriano,1976-11-10,45,Spain,https://cdn.sportmonks.com/images//soccer/coaches/26/184794.png
+184942,/coach/184942/xavier-hernandez-creus/,X. Hernández,Xavier Hernández Creus,1980-01-25,45,Spain,https://cdn.sportmonks.com/images/soccer/players/14/184942.png
+184988,/coach/184988/gabriel-alejandro-milito/,G. Milito,Gabriel Alejandro Milito,1980-09-07,52,Argentina,https://cdn.sportmonks.com/images/soccer/players/28/184988.png
+184993,/coach/184993/henok-goitom/,H. Goitom,Henok Goitom,1984-09-16,113,Eritrea,https://cdn.sportmonks.com/images/soccer/players/1/184993.png
+185049,/coach/185049/leandro-daniel-somoza/,L. Somoza,Leandro Daniel Somoza,1981-01-26,52,Argentina,https://cdn.sportmonks.com/images/soccer/players/25/185049.png
+185262,/coach/185262/joseba-andoni-etxeberria-lizardi/,J. Etxeberria Lizardi,Joseba Andoni Etxeberria Lizardi,1977-09-05,45,Spain,
+185336,/coach/185336/vicente-moreno-peris/,V. Moreno Peris,Vicente Moreno Peris,1974-10-26,45,Spain,
+185346,/coach/185346/javier-calleja-revilla/,J. Calleja Revilla,Javier Calleja Revilla,1978-05-12,45,Spain,https://cdn.sportmonks.com/images/soccer/players/2/185346.png
+185470,/coach/185470/javier-baraja-vegas/,J. Baraja Vegas,Javier Baraja Vegas,1980-08-24,45,Spain,
+186018,/coach/186018/miguel-angel-sanchez-munoz/,M. Sánchez,Miguel Ángel Sánchez Muñoz,1975-10-30,45,Spain,https://cdn.sportmonks.com/images//soccer/coaches/2/186018.png
+186071,/coach/186071/paulo-cesar-pezzolano-suarez/,P. Pezzolano Suárez,Paulo César Pezzolano Suárez,1983-04-25,60,Uruguay,
+186298,/coach/186298/carlos-gonzalez-pena/,C. González Peña,Carlos González Peña,1983-07-28,45,Spain,https://cdn.sportmonks.com/images/soccer/players/26/186298.png
+187382,/coach/187382/ruben-torrecilla-gonzalez/,R. Gonzalez,Ruben Torrecilla Gonzalez,1979-05-24,45,Spain,
+187936,/coach/187936/sergio-francisco-ramos/,S. Francisco Ramos,Sergio Francisco Ramos,1979-03-19,45,Spain,
+188253,/coach/188253/aritz-mujika-lopez/,A. Mújika López,Aritz Mújika López,1981-11-13,45,Spain,
+189541,/coach/189541/henrik-rydstrom/,H. Rydström,Henrik Rydström,1976-02-16,46,Sweden,
+189568,/coach/189568/christoffer-andersson/,C. Andersson,Christoffer Andersson,1978-10-22,46,Sweden,https://cdn.sportmonks.com/images/soccer/players/0/189568.png
+189622,/coach/189622/christian-jardler/,C. Järdler,Christian Järdler,1982-06-03,46,Sweden,
+189742,/coach/189742/dan-kristian-haynes/,D. Haynes,Dan Kristian Haynes,1980-12-20,46,Sweden,https://cdn.sportmonks.com/images/soccer/players/14/189742.png
+191678,/coach/191678/joakim-persson/,J. Persson,Joakim Persson,1975-04-03,46,Sweden,
+191894,/coach/191894/andreas-holmberg/,A. Holmberg,Andreas Holmberg,1984-08-17,46,Sweden,
+194144,/coach/194144/amir-azrafshan/,A. Azrafshan,Amir Azrafshan,,46,Sweden,
+197165,/coach/197165/marc-schneider/,M. Schneider,Marc Schneider,1980-07-23,47,Switzerland,
+197318,/coach/197318/alessandro-mangiarratti/,A. Mangiarratti,Alessandro Mangiarratti,1978-09-15,47,Switzerland,
+197728,/coach/197728/marko-ante-rudan/,M. Rudan,Marko Ante Rudan,1975-08-27,195,Australia,
+198296,/coach/198296/thomas-stamm/,T. Stamm,Thomas Stamm,1983-02-19,47,Switzerland,
+198883,/coach/198883/mattia-croci-torti/,M. Croci-Torti,Mattia Croci-Torti,1982-04-10,47,Switzerland,
+199825,/coach/199825/omer-erdogan/,Ö. Erdogan,Ömer Erdogan,1977-05-03,48,Turkey,
+199962,/coach/199962/senol-can/,Ş. Can,Şenol Can,1983-04-03,48,Turkey,
+199988,/coach/199988/okan-buruk/,O. Buruk,Okan Buruk,1973-10-19,48,Turkey,
+200087,/coach/200087/rigobert-song-bahanag/,R. Song Bahanag,Rigobert Song Bahanag,1976-07-01,103,Cameroon,
+200291,/coach/200291/volkan-demirel/,V. Demirel,Volkan Demirel,1981-10-27,48,Turkey,https://cdn.sportmonks.com/images/soccer/players/3/200291.png
+202007,/coach/202007/muzaffer-bilazer/,M. Bilazer,Muzaffer Bilazer,1977-06-20,48,Turkey,
+204726,/coach/204726/mariusz-lewandowski/,M. Lewandowski,Mariusz Lewandowski,1979-05-18,37,Poland,
+211194,/coach/211194/lucas-andres-nardi/,L. Nardi,Lucas Andres Nardi,1980-07-09,52,Argentina,
+211391,/coach/211391/guillermo-martin-farre/,G. Farré,Guillermo Martín Farré,1981-03-16,52,Argentina,https://cdn.sportmonks.com/images/soccer/players/31/211391.png
+211449,/coach/211449/walter-gaston-coyette/,W. Coyette,Walter Gastón Coyette,1976-01-28,52,Argentina,
+212007,/coach/212007/juan-pablo-vojvoda/,J. Vojvoda,Juan Pablo Vojvoda,1975-05-13,52,Argentina,
+212082,/coach/212082/pablo-daniel-de-muner/,P. de Muner,Pablo Daniel de Muner,1981-04-14,52,Argentina,
+212494,/coach/212494/raul-adolfo-antuna/,R. Antuña,Raúl Adolfo Antuña,1973-08-31,52,Argentina,
+212901,/coach/212901/jorge-rodrigo-bava/,J. Bava,Jorge Rodrigo Bava,1981-08-02,60,Uruguay,
+214107,/coach/214107/sergio-ruben-blanco-soto/,S. Blanco Soto,Sergio Rubén Blanco Soto,1981-11-25,60,Uruguay,https://cdn.sportmonks.com/images/soccer/players/27/214107.png
+215856,/coach/215856/rogerio-mucke-ceni/,R. Mücke Ceni,Rogério Mücke Ceni,1973-01-22,54,Brazil,https://cdn.sportmonks.com/images/soccer/players/16/215856.png
+216631,/coach/216631/pablo-daniel-escobar-olivetti/,P. Escobar Olivetti,Pablo Daniel Escobar Olivetti,1978-07-12,53,Bolivia,
+216896,/coach/216896/pablo-horacio-guinazu/,P. Guiñazú,Pablo Horacio Guiñazú,1978-08-26,52,Argentina,https://cdn.sportmonks.com/images/soccer/players/0/216896.png
+217747,/coach/217747/julio-cesar-caceres-lopez/,J. Cáceres López,Júlio César Cáceres López,1979-10-05,58,Paraguay,
+219788,/coach/219788/gustavo-javier-canales-bustos/,G. Canales Bustos,Gustavo Javier Canales Bustos,1982-03-30,55,Chile,
+224127,/coach/224127/jefferson-carlos-carvalhal-da-silva/,J. Carvalhal da Silva,Jefferson Carlos Carvalhal da Silva,1975-06-04,54,Brazil,
+232657,/coach/232657/sebastian-miguel-miranda-cordova/,S. Miranda Córdova,Sebastián Miguel Miranda Córdova,1980-06-26,55,Chile,https://cdn.sportmonks.com/images/soccer/players/17/232657.png
+232813,/coach/232813/ezequiel-luis-medran/,E. Medrán,Ezequiel Luis Medrán,1980-12-28,52,Argentina,
+235363,/coach/235363/johan-javier-fano-espinoza/,J. Fano Espinoza,Johan Javier Fano Espinoza,1978-08-09,59,Peru,
+235436,/coach/235436/david-fernando-montoya/,D. Montoya,David Fernando Montoya,1978-02-14,56,Colombia,
+236047,/coach/236047/mario-humberto-garcia-caboara/,M. García Caboara,Mario Humberto García Caboara,1980-09-14,83,Mexico,https://cdn.sportmonks.com/images/soccer/players/15/236047.png
+238517,/coach/238517/oscar-mario-morera-gomez/,Ó. Morera Gómez,Óscar Mario Morera Gómez,1984-06-15,56,Colombia,
+251867,/coach/251867/jaime-arturo-lozano-espin/,J. Lozano Espin,Jaime Arturo Lozano Espin,1978-09-29,83,Mexico,
+251872,/coach/251872/eduardo-german-coudet/,E. Coudet,Eduardo Germán Coudet,1974-09-12,52,Argentina,
+251906,/coach/251906/gabriel-ernesto-pereyra-vazquez/,G. Pereyra Vázquez,Gabriel Ernesto Pereyra Vázquez,1978-02-28,52,Argentina,
+252276,/coach/252276/juan-francisco-palencia-hernandez/,J. Palencia Hernández,Juan Francisco Palencia Hernández,1973-04-28,83,Mexico,
+252450,/coach/252450/javier-marcelo-gandolfi/,J. Gandolfi,Javier Marcelo Gandolfi,1980-12-05,52,Argentina,
+252486,/coach/252486/rolando-hernan-cristante-mandarino/,R. Cristante Mandarino,Rolando Hernán Cristante Mandarino,1969-09-16,52,Argentina,
+252491,/coach/252491/federico-vilar-baudena/,F. Vilar Baudena,Federico Vilar Baudena,1977-05-30,52,Argentina,https://cdn.sportmonks.com/images/soccer/players/11/252491.png
+252596,/coach/252596/gonzalo-pineda-reyes/,G. Pineda Reyes,Gonzalo Pineda Reyes,1982-10-19,83,Mexico,https://cdn.sportmonks.com/images/soccer/players/20/252596.png
+252780,/coach/252780/mauro-nestor-gerk-larrea/,M. Gerk Larrea,Mauro Nestor Gerk Larrea,1977-09-05,52,Argentina,
+254517,/coach/254517/jose-ignacio-pallas-martinez/,J. Pallas Martínez,José Ignacio Pallas Martínez,1983-01-05,60,Uruguay,
+257375,/coach/257375/troadio-daniel-duarte/,T. Duarte,Troadio Daniel Duarte,1977-03-04,58,Paraguay,
+258416,/coach/258416/guillermo-sandro-salas-suarez/,G. Salas Suarez,Guillermo Sandro Salas Suarez,1974-10-21,59,Peru,
+258715,/coach/258715/juan-carlos-alayo/,J. Alayo,Juan Carlos Alayo,1985-11-18,59,Peru,
+260206,/coach/260206/alexander-jesus-medina-reobasco/,A. Medina Reobasco,Alexander Jesús Medina Reobasco,1978-08-08,60,Uruguay,
+261388,/coach/261388/ezra-hendrickson/,E. Hendrickson,Ezra Hendrickson,1972-01-16,91,Saint Vincent and the Grenadines,https://cdn.sportmonks.com/images//soccer/coaches/12/261388.png
+261421,/coach/261421/pat-noonan/,P. Noonan,Pat Noonan,1980-02-08,95,United States,https://cdn.sportmonks.com/images/soccer/players/13/261421.png
+261512,/coach/261512/josh-wolff/,J. Wolff,Josh Wolff,1977-02-25,95,United States,https://cdn.sportmonks.com/images/soccer/players/8/261512.png
+282308,/coach/282308/jose-maria-morr/,J. Morr,José María Morr,1981-04-12,61,Venezuela,
+282927,/coach/282927/leonel-gerardo-vielma-pena/,L. Vielma Peña,Leonel Gerardo Vielma Peña,1978-08-30,61,Venezuela,
+286861,/coach/286861/arthur-zwane/,A. Zwane,Arthur Zwane,1973-09-20,140,South Africa,
+308200,/coach/308200/satoshi-yamaguchi/,S. Yamaguchi,Satoshi Yamaguchi,1978-04-17,163,Japan,
+308330,/coach/308330/daiki-iwamasa/,D. Iwamasa,Daiki Iwamasa,1982-01-30,163,Japan,https://cdn.sportmonks.com/images/soccer/players/10/308330.png
+308790,/coach/308790/takayuki-yoshida/,T. Yoshida,Takayuki Yoshida,1977-03-14,163,Japan,
+311623,/coach/311623/jinyu-li/,J. Li,Jinyu Li,1977-06-07,155,China PR,
+312130,/coach/312130/weifeng-li/,W. Li,Weifeng Li,1978-12-01,155,China PR,https://cdn.sportmonks.com/images/soccer/players/2/312130.png
+317694,/coach/317694/ufuk-talay/,U. Talay,Ufuk Talay,1976-03-26,195,Australia,
+319508,/coach/319508/gi-dong-kim/,G. Kim,Gi-Dong Kim,1972-01-12,167,Korea Republic,
+319683,/coach/319683/won-kwon-choi/,W. Choi,Won-Kwon Choi,1981-11-08,167,Korea Republic,https://cdn.sportmonks.com/images/soccer/players/3/319683.png
+319820,/coach/319820/sang-sik-kim/,S. Kim,Sang-Sik Kim,1976-12-17,167,Korea Republic,https://cdn.sportmonks.com/images/soccer/players/12/319820.png
+323355,/coach/323355/danny-hay/,D. Hay,Danny Hay,1975-05-15,198,New Zealand,
+328728,/coach/328728/kevin-muscat/,K. Muscat,Kevin Muscat,1973-08-07,195,Australia,
+335781,/coach/335781/sergiy-rebrov/,S. Rebrov,Sergiy Rebrov,1974-06-03,49,Ukraine,
+344426,/coach/344426/markus-anfang/,M. Anfang,Markus Anfang,1974-06-12,21,Germany,
+347590,/coach/347590/stephan-helm/,S. Helm,Stephan Helm,1983-04-10,4,Austria,
+351097,/coach/351097/thomas-schnoll/,T. Schnöll,Thomas Schnöll,1991-09-23,4,Austria,
+364995,/coach/364995/davide-nicola/,D. Nicola,Davide Nicola,1973-03-05,27,Italy,
+367568,/coach/367568/alessio-dionisi/,A. Dionisi,Alessio Dionisi,1980-04-01,27,Italy,
+374099,/coach/374099/artur-sadirov/,A. Sadirov,Artur Sadirov,1985-03-22,40,Russia,
+387349,/coach/387349/kenan-askan/,K. Askan,Kenan Askan,1981-06-01,48,Turkey,
+407742,/coach/407742/hugo-benjamin-ibarra/,H. Ibarra,Hugo Benjamin Ibarra,1974-01-04,52,Argentina,
+407770,/coach/407770/raphael-wicky/,R. Wicky,Raphaël Wicky,1977-04-26,47,Switzerland,
+407845,/coach/407845/igor-tudor/,I. Tudor,Igor Tudor,1978-04-16,10,Croatia,https://cdn.sportmonks.com/images/soccer/players/5/407845.png
+412537,/coach/412537/facundo-sava/,F. Sava,Facundo Sava,1974-03-07,52,Argentina,
+417317,/coach/417317/edin-terzic/,E. Terzic,Edin Terzic,1982-10-30,10,Croatia,https://cdn.sportmonks.com/images//soccer/coaches/5/417317.png
+419564,/coach/419564/humberto-viviani-ribera/,H. Viviani Ribera,Humberto Viviani Ribera,1980-10-12,53,Bolivia,
+429896,/coach/429896/ariel-enrique-holan/,A. Holan,Ariel Enrique Holan,1960-09-14,52,Argentina,
+429917,/coach/429917/oscar-alexander-pareja-gomez/,Ó. Pareja Gómez,Óscar Alexander Pareja Gómez,1968-08-10,56,Colombia,https://cdn.sportmonks.com/images/soccer/players/29/429917.png
+429924,/coach/429924/caleb-porter/,C. Porter,Caleb Porter,1975-02-18,95,United States,https://cdn.sportmonks.com/images/soccer/players/4/429924.png
+429937,/coach/429937/brian-schmetzer/,B. Schmetzer,Brian Schmetzer,1962-08-18,95,United States,https://cdn.sportmonks.com/images//soccer/coaches/17/429937.png
+429940,/coach/429940/adrian-heath/,A. Heath,Adrian Heath,1961-01-11,14,England,https://cdn.sportmonks.com/images//soccer/coaches/20/429940.png
+438064,/coach/438064/lucas-pusineri/,L. Pusineri,Lucas Pusineri,1976-07-17,52,Argentina,
+452677,/coach/452677/magnus-haglund/,M. Haglund,Magnus Haglund,1973-04-15,46,Sweden,https://cdn.sportmonks.com/images/soccer/players/5/452677.png
+452683,/coach/452683/graham-potter/,G. Potter,Graham Potter,1975-05-20,14,England,
+452689,/coach/452689/mikael-stahre/,M. Stahre,Mikael Stahre,1975-07-05,46,Sweden,https://cdn.sportmonks.com/images/soccer/players/17/452689.png
+452732,/coach/452732/kjetil-knutsen/,K. Knutsen,Kjetil Knutsen,1968-10-02,36,Norway,https://cdn.sportmonks.com/images/soccer/players/28/452732.png
+452767,/coach/452767/klaus-schmidt/,K. Schmidt,Klaus Schmidt,1967-10-21,4,Austria,
+452818,/coach/452818/myung-bo-hong/,M. Hong,Myung-Bo Hong,1969-02-12,167,Korea Republic,
+452862,/coach/452862/thomas-silberberger/,T. Silberberger,Thomas Silberberger,1973-06-03,4,Austria,
+452906,/coach/452906/jaime-de-la-pava-marquez/,J. de la Pava Márquez,Jaime de la Pava Márquez,1967-04-14,56,Colombia,
+452916,/coach/452916/luiz-elena-felipe-scolari/,L. Scolari,Luiz Elena Felipe Scolari,1948-11-09,54,Brazil,https://cdn.sportmonks.com/images/soccer/players/20/452916.png
+452946,/coach/452946/diego-pablo-simeone/,D. Simeone,Diego Pablo Simeone,1970-04-28,52,Argentina,https://cdn.sportmonks.com/images/soccer/players/18/452946.png
+453032,/coach/453032/yong-soo-choi/,Y. Choi,Yong-Soo Choi,1973-09-10,167,Korea Republic,
+455343,/coach/455343/slaven-bilic/,S. Bilić,Slaven Bilić,1968-09-11,10,Croatia,
+455344,/coach/455344/tony-mowbray/,T. Mowbray,Tony Mowbray,1963-11-22,14,England,
+455350,/coach/455350/paul-cook/,P. Cook,Paul Cook,1967-02-22,14,England,
+455353,/coach/455353/jurgen-klopp/,J. Klopp,Jürgen Klopp,1967-06-16,21,Germany,https://cdn.sportmonks.com/images/soccer/players/25/455353.png
+455355,/coach/455355/david-moyes/,D. Moyes,David Moyes,1963-04-25,42,Scotland,https://cdn.sportmonks.com/images/soccer/players/27/455355.png
+455357,/coach/455357/karl-robinson/,K. Robinson,Karl Robinson,1980-09-13,14,England,
+455361,/coach/455361/josep-guardiola-i-sala/,J. Guardiola i Sala,Josep Guardiola i Sala,1971-01-18,45,Spain,https://cdn.sportmonks.com/images/soccer/players/1/455361.png
+455363,/coach/455363/slavisa-jokanovic/,S. Jokanović,Slaviša Jokanović,1968-08-16,51,Serbia,
+455375,/coach/455375/jose-mario-felix-dos-santos-mourinho/,José Mourinho,José Mario Felix dos Santos Mourinho,1963-01-26,38,Portugal,https://cdn.sportmonks.com/images/soccer/players/15/455375.png
+455384,/coach/455384/antonio-conte/,A. Conte,Antonio Conte,1969-07-31,27,Italy,https://cdn.sportmonks.com/images/soccer/players/24/455384.png
+455424,/coach/455424/marco-alexandre-saraiva-da-silva/,M. Saraiva da Silva,Marco Alexandre Saraiva da Silva,1977-07-12,38,Portugal,https://cdn.sportmonks.com/images/soccer/players/0/455424.png
+455453,/coach/455453/gary-rowett/,G. Rowett,Gary Rowett,1974-03-06,14,England,
+455458,/coach/455458/mark-hughes/,M. Hughes,Mark Hughes,1963-11-01,50,Wales,https://cdn.sportmonks.com/images//soccer/coaches/2/455458.png
+455462,/coach/455462/gary-bowyer/,G. Bowyer,Gary Bowyer,1971-06-26,14,England,
+455489,/coach/455489/mark-robins/,M. Robins,Mark Robins,1969-12-22,14,England,
+455493,/coach/455493/jose-miguel-gonzalez-martin-del-campo/,J. González Martín del Campo,José Miguel González Martín del Campo,1963-03-23,45,Spain,https://cdn.sportmonks.com/images/soccer/players/5/455493.png
+455570,/coach/455570/nigel-clough/,N. Clough,Nigel Clough,1966-03-19,14,England,
+455648,/coach/455648/jose-mel-perez/,J. Mel Pérez,José Mel Pérez,1963-02-28,45,Spain,https://cdn.sportmonks.com/images/soccer/players/0/455648.png
+455672,/coach/455672/lucien-favre/,L. Favre,Lucien Favre,1957-11-02,47,Switzerland,https://cdn.sportmonks.com/images/soccer/players/24/455672.png
+455701,/coach/455701/peter-zeidler/,P. Zeidler,Peter Zeidler,1962-08-08,21,Germany,https://cdn.sportmonks.com/images/soccer/players/21/455701.png
+455705,/coach/455705/jindrich-trpisovsky/,J. Trpišovský,Jindřich Trpišovský,1976-02-27,12,Czech Republic,
+455712,/coach/455712/urs-fischer/,U. Fischer,Urs Fischer,1966-02-20,47,Switzerland,https://cdn.sportmonks.com/images/soccer/players/0/455712.png
+455728,/coach/455728/gustavo-julio-alfaro/,G. Alfaro,Gustavo Julio Alfaro,1962-08-14,52,Argentina,
+455745,/coach/455745/jorge-guillermo-almada-alves/,J. Almada Álves,Jorge Guillermo Almada Álves,1969-06-18,60,Uruguay,
+455793,/coach/455793/ronny-deila/,R. Deila,Ronny Deila,1975-09-21,36,Norway,https://cdn.sportmonks.com/images/soccer/players/17/455793.png
+455800,/coach/455800/carlo-ancelotti/,C. Ancelotti,Carlo Ancelotti,1959-06-10,27,Italy,https://cdn.sportmonks.com/images/soccer/players/24/455800.png
+455815,/coach/455815/olivier-pantaloni/,O. Pantaloni,Olivier Pantaloni,1966-12-13,18,France,https://cdn.sportmonks.com/images/soccer/players/7/455815.png
+455821,/coach/455821/enrique-sanchez-flores/,E. Sánchez Flores,Enrique Sánchez Flores,1965-02-05,45,Spain,https://cdn.sportmonks.com/images//soccer/coaches/13/455821.png
+455831,/coach/455831/viktor-goncharenko/,V. Goncharenko,Viktor Goncharenko,1977-06-10,6,Belarus,https://cdn.sportmonks.com/images/soccer/players/23/455831.png
+455848,/coach/455848/marco-baroni/,M. Baroni,Marco Baroni,1963-09-11,27,Italy,
+455860,/coach/455860/gregg-berhalter/,G. Berhalter,Gregg Berhalter,1973-08-01,95,United States,https://cdn.sportmonks.com/images/soccer/players/20/455860.png
+455898,/coach/455898/guillermo-barros-schelotto/,G. Barros Schelotto,Guillermo Barros Schelotto,1973-05-04,52,Argentina,
+455907,/coach/455907/unai-emery-etxegoien/,U. Emery,Unai Emery Etxegoien,1971-11-03,45,Spain,https://cdn.sportmonks.com/images/soccer/players/3/455907.png
+455925,/coach/455925/rene-hake/,R. Hake,René Hake,1970-01-01,34,Netherlands,
+455926,/coach/455926/maurizio-sarri/,M. Sarri,Maurizio Sarri,1959-01-10,27,Italy,https://cdn.sportmonks.com/images//soccer/coaches/22/455926.png
+455928,/coach/455928/jean-louis-gasset/,J. Gasset,Jean-Louis Gasset,1953-12-09,18,France,https://cdn.sportmonks.com/images/soccer/players/24/455928.png
+455931,/coach/455931/rui-carlos-pinho-da-vitoria/,R. Pinho da Vitória,Rui Carlos Pinho da Vitória,1970-04-16,38,Portugal,
+455941,/coach/455941/lars-roar-bohinen/,L. Bohinen,Lars Roar Bohinen,1969-09-08,36,Norway,
+455944,/coach/455944/luis-miguel-ramis-monfort/,L. Ramis Monfort,Luis Miguel Ramis Monfort,1970-07-25,45,Spain,
+455945,/coach/455945/paulo-alexandre-rodrigues-fonseca/,P. Rodrigues Fonseca,Paulo Alexandre Rodrigues Fonseca,1973-03-05,38,Portugal,https://cdn.sportmonks.com/images/soccer/players/9/455945.png
+455957,/coach/455957/massimiliano-allegri/,M. Allegri,Massimiliano Allegri,1967-08-11,27,Italy,https://cdn.sportmonks.com/images/soccer/players/21/455957.png
+455975,/coach/455975/mesut-bakkal/,M. Bakkal,Mesut Bakkal,1964-03-19,48,Turkey,
+455991,/coach/455991/nuno-herlander-simoes-espirito-santo/,N. Simões Espírito Santo,Nuno Herlander Simões Espírito Santo,1974-01-25,38,Portugal,
+456014,/coach/456014/jorge-luis-sampaoli-moya/,J. Sampaoli Moya,Jorge Luis Sampaoli Moya,1960-03-13,52,Argentina,https://cdn.sportmonks.com/images/soccer/players/14/456014.png
+456022,/coach/456022/thierry-laurey/,T. Laurey,Thierry Laurey,1964-02-17,18,France,https://cdn.sportmonks.com/images/soccer/players/22/456022.png
+456033,/coach/456033/augusto-sergio-ferreira/,A. Ferreira,Augusto Sérgio Ferreira,1965-09-07,54,Brazil,
+456038,/coach/456038/gian-piero-gasperini/,G. Gasperini,Gian Piero Gasperini,1958-01-26,27,Italy,
+456040,/coach/456040/vagner-carmo-mancini/,V. Carmo Mancini,Vágner Carmo Mancini,1966-10-24,54,Brazil,
+456080,/coach/456080/joseba-imanol-idiakez-barkaiztegui/,J. Idiakez Barkaiztegui,Joseba Imanol Idiakez Barkaiztegui,1972-03-14,45,Spain,
+456085,/coach/456085/michael-oenning/,M. Oenning,Michael Oenning,1965-09-27,21,Germany,https://cdn.sportmonks.com/images/soccer/players/21/456085.png
+456113,/coach/456113/erik-ten-hag/,E. ten Hag,Erik ten Hag,1970-02-02,34,Netherlands,https://cdn.sportmonks.com/images//soccer/players/17/456113.png
+456140,/coach/456140/hector-fernando-marecos-silvera/,H. Marecos Silvera,Héctor Fernando Marecos Silvera,1979-01-04,58,Paraguay,
+456153,/coach/456153/stephane-moulin/,S. Moulin,Stéphane Moulin,1967-08-04,18,France,https://cdn.sportmonks.com/images/soccer/players/25/456153.png
+456159,/coach/456159/jim-bentley/,J. Bentley,Jim Bentley,1976-06-11,14,England,
+456170,/coach/456170/kazimierz-moskal/,K. Moskal,Kazimierz Moskal,1967-01-09,37,Poland,
+456247,/coach/456247/christophe-pelissier/,C. Pélissier,Christophe Pélissier,1965-10-05,18,France,
+456268,/coach/456268/christian-michelsen/,C. Michelsen,Christian Michelsen,1973-03-14,36,Norway,
+456309,/coach/456309/julio-cesar-falcioni/,J. Falcioni,Julio César Falcioni,1956-07-20,52,Argentina,
+456360,/coach/456360/carlos-corberan-vallet/,C. Corberán Vallet,Carlos Corberán Vallet,1983-04-07,45,Spain,
+456409,/coach/456409/luis-miguel-carrion-delgado/,L. Carrión Delgado,Luis Miguel Carrión Delgado,1979-02-07,45,Spain,
+456414,/coach/456414/dag-eilev-akkerhaugen-fagermo/,D. Fagermo,Dag-Eilev Akkerhaugen Fagermo,1967-01-18,36,Norway,https://cdn.sportmonks.com/images/soccer/players/30/456414.png
+456423,/coach/456423/jagoba-arrasate-elustondo/,J. Arrasate,Jagoba Arrasate Elustondo,1978-04-22,45,Spain,https://cdn.sportmonks.com/images/soccer/players/7/456423.png
+456450,/coach/456450/michael-kollner/,M. Köllner,Michael Köllner,1969-12-29,21,Germany,
+456463,/coach/456463/ollie-horgan/,O. Horgan,Ollie Horgan,,25,Republic of Ireland,
+456483,/coach/456483/olivier-frapolli/,O. Frapolli,Olivier Frapolli,1971-09-27,18,France,https://cdn.sportmonks.com/images/soccer/players/3/456483.png
+456549,/coach/456549/valdas-dambrauskas/,V. Dambrauskas,Valdas Dambrauskas,1977-01-07,30,Lithuania,
+456552,/coach/456552/alfredo-aglietti/,A. Aglietti,Alfredo Aglietti,1970-09-16,27,Italy,
+456555,/coach/456555/ron-jans/,R. Jans,Ron Jans,1958-09-29,34,Netherlands,https://cdn.sportmonks.com/images/soccer/players/11/456555.png
+456588,/coach/456588/jose-ricardo-mannarino/,J. Mannarino,Jose Ricardo Mannarino,1971-06-05,54,Brazil,
+456603,/coach/456603/michel-der-zakarian/,M. Der Zakarian,Michel Der Zakarian,1963-02-18,3,Armenia,https://cdn.sportmonks.com/images/soccer/players/27/456603.png
+456625,/coach/456625/jurgen-streppel/,J. Streppel,Jurgen Streppel,1969-06-25,34,Netherlands,
+456646,/coach/456646/julio-velazquez-santiago/,J. Velázquez Santiago,Julio Velázquez Santiago,1981-10-05,45,Spain,https://cdn.sportmonks.com/images/soccer/players/6/456646.png
+456647,/coach/456647/jacek-zielinski/,J. Zielinski,Jacek Zielinski,1961-03-22,37,Poland,
+456650,/coach/456650/henk-de-jong/,H. de Jong,Henk de Jong,1964-08-27,34,Netherlands,
+456665,/coach/456665/marius-ninel-sumudica/,M. Şumudică,Marius Ninel Şumudică,1971-03-04,39,Romania,
+456680,/coach/456680/igor-jovicevic/,I. Jovičević,Igor Jovičević,1973-11-30,10,Croatia,
+456904,/coach/456904/leszek-ojrzynski/,L. Ojrzynski,Leszek Ojrzynski,1972-05-31,37,Poland,
+456984,/coach/456984/piotr-stokowiec/,P. Stokowiec,Piotr Stokowiec,1972-05-25,37,Poland,
+456991,/coach/456991/didier-santini/,D. Santini,Didier Santini,1968-09-07,18,France,
+457036,/coach/457036/marco-rossi/,M. Rossi,Marco Rossi,1964-09-09,27,Italy,
+457107,/coach/457107/jimmy-thelin/,J. Thelin,Jimmy Thelin,1978-03-14,46,Sweden,
+457206,/coach/457206/alain-pochat/,A. Pochat,Alain Pochat,1967-08-01,18,France,
+457354,/coach/457354/tatsuma-yoshida/,T. Yoshida,Tatsuma Yoshida,1974-06-09,163,Japan,https://cdn.sportmonks.com/images/soccer/players/10/457354.png
+457649,/coach/457649/thomas-thomasberg/,T. Thomasberg,Thomas Thomasberg,1974-10-15,13,Denmark,
+457779,/coach/457779/kent-nielsen/,K. Nielsen,Kent Nielsen,1961-12-28,13,Denmark,https://cdn.sportmonks.com/images/soccer/players/19/457779.png
+457906,/coach/457906/albert-cartier/,A. Cartier,Albert Cartier,1960-11-22,18,France,https://cdn.sportmonks.com/images/soccer/players/18/457906.png
+458184,/coach/458184/marco-wildersinn/,M. Wildersinn,Marco Wildersinn,1980-09-29,21,Germany,
+458446,/coach/458446/jakob-michelsen/,J. Michelsen,Jakob Michelsen,1980-09-30,13,Denmark,
+458500,/coach/458500/maurice-steijn/,M. Steijn,Maurice Steijn,1973-11-20,34,Netherlands,https://cdn.sportmonks.com/images/soccer/players/4/458500.png
+458506,/coach/458506/kasper-hjulmand/,K. Hjulmand,Kasper Hjulmand,1972-04-09,13,Denmark,https://cdn.sportmonks.com/images/soccer/players/10/458506.png
+458508,/coach/458508/stanley-purl-menzo/,S. Menzo,Stanley Purl Menzo,1963-10-15,34,Netherlands,
+458509,/coach/458509/robert-molenaar/,R. Molenaar,Robert Molenaar,1969-02-27,34,Netherlands,
+458512,/coach/458512/jose-manuel-martins-teixeira-gomes/,J. Martins Teixeira Gomes,José Manuel Martins Teixeira Gomes,1970-08-28,38,Portugal,
+458533,/coach/458533/arne-sandsto/,A. Sandstø,Arne Sandstø,1966-10-21,36,Norway,https://cdn.sportmonks.com/images/soccer/players/5/458533.png
+458536,/coach/458536/lars-arne-nilsen/,L. Nilsen,Lars Arne Nilsen,1964-04-06,36,Norway,https://cdn.sportmonks.com/images/soccer/players/8/458536.png
+458537,/coach/458537/dick-lukkien/,D. Lukkien,Dick Lukkien,1972-03-28,34,Netherlands,https://cdn.sportmonks.com/images/soccer/players/9/458537.png
+458545,/coach/458545/razvan-lucescu/,R. Lucescu,Răzvan Lucescu,1969-02-17,39,Romania,https://cdn.sportmonks.com/images/soccer/players/17/458545.png
+458558,/coach/458558/patrice-carteron/,P. Carteron,Patrice Carteron,1970-07-30,18,France,
+458563,/coach/458563/czeslaw-michniewicz/,C. Michniewicz,Czesław Michniewicz,1970-02-12,37,Poland,
+458577,/coach/458577/juan-jose-ribera/,J. Ribera,Juan José Ribera,1980-10-11,55,Chile,
+458610,/coach/458610/sandro-schwarz/,S. Schwarz,Sandro Schwarz,1978-10-17,21,Germany,https://cdn.sportmonks.com/images//soccer/coaches/18/458610.png
+458614,/coach/458614/andre-breitenreiter/,A. Breitenreiter,André Breitenreiter,1973-10-02,21,Germany,https://cdn.sportmonks.com/images/soccer/players/22/458614.png
+458681,/coach/458681/geir-bakke/,G. Bakke,Geir Bakke,1969-10-23,36,Norway,https://cdn.sportmonks.com/images/soccer/players/25/458681.png
+458688,/coach/458688/ian-burchnall/,I. Burchnall,Ian Burchnall,1983-02-11,14,England,https://cdn.sportmonks.com/images/soccer/players/0/458688.png
+458740,/coach/458740/shuhei-yomoda/,S. Yomoda,Shuhei Yomoda,,163,Japan,
+458754,/coach/458754/antonio-carlos-zago/,A. Zago,Antônio Carlos Zago,1969-05-18,54,Brazil,
+458791,/coach/458791/mario-alfredo-salas-saieg/,M. Salas Saieg,Mario Alfredo Salas Saieg,1967-10-11,55,Chile,https://cdn.sportmonks.com/images/soccer/players/7/458791.png
+458813,/coach/458813/julian-nagelsmann/,J. Nagelsmann,Julian Nagelsmann,1987-07-23,21,Germany,https://cdn.sportmonks.com/images//soccer/coaches/29/458813.png
+458889,/coach/458889/jerzy-brzeczek/,J. Brzęczek,Jerzy Brzęczek,1971-03-18,37,Poland,
+458915,/coach/458915/marcin-kaczmarek/,M. Kaczmarek,Marcin Kaczmarek,1974-01-02,37,Poland,
+458978,/coach/458978/frank-schmidt/,F. Schmidt,Frank Schmidt,1974-01-03,21,Germany,https://cdn.sportmonks.com/images/soccer/players/2/458978.png
+458991,/coach/458991/jair-zaksauskas-ribeiro-ventura/,J. Ribeiro Ventura,Jair Zaksauskas Ribeiro Ventura,1979-03-19,54,Brazil,
+459010,/coach/459010/joe-enochs/,J. Enochs,Joe Enochs,1971-09-01,95,United States,
+459045,/coach/459045/glen-riddersholm/,G. Riddersholm,Glen Riddersholm,1972-04-26,13,Denmark,https://cdn.sportmonks.com/images/soccer/players/5/459045.png
+459054,/coach/459054/antoine-kombouare/,A. Kombouare,Antoine Kombouare,1963-11-16,18,France,https://cdn.sportmonks.com/images/soccer/players/14/459054.png
+459056,/coach/459056/enrique-setien-solar/,E. Setién Solar,Enrique Setién Solar,1958-09-27,45,Spain,https://cdn.sportmonks.com/images/soccer/players/16/459056.png
+459064,/coach/459064/renato-portaluppi/,R. Portaluppi,Renato Portaluppi,1962-09-09,54,Brazil,
+459075,/coach/459075/jeff-saibene/,J. Saibene,Jeff Saibene,1968-09-13,31,Luxembourg,https://cdn.sportmonks.com/images/soccer/players/3/459075.png
+459100,/coach/459100/stefano-pioli/,S. Pioli,Stefano Pioli,1965-10-20,27,Italy,https://cdn.sportmonks.com/images/soccer/players/28/459100.png
+459133,/coach/459133/fernando-diniz-silva/,F. Diniz Silva,Fernando Diniz Silva,1974-03-27,54,Brazil,
+459149,/coach/459149/mircea-lucescu/,M. Lucescu,Mircea Lucescu,1945-07-29,39,Romania,https://cdn.sportmonks.com/images/soccer/players/13/459149.png
+459182,/coach/459182/pascal-jansen/,P. Jansen,Pascal Jansen,1973-01-27,34,Netherlands,https://cdn.sportmonks.com/images//soccer/coaches/14/459182.png
+459237,/coach/459237/vladan-milojevic/,V. Milojević,Vladan Milojević,1970-03-09,51,Serbia,
+459363,/coach/459363/leontin-florian-grozavu/,L. Grozavu,Leontin Florian Grozavu,1967-08-16,39,Romania,https://cdn.sportmonks.com/images/soccer/players/3/459363.png
+459371,/coach/459371/stefan-kramer/,S. Krämer,Stefan Krämer,1967-03-23,21,Germany,https://cdn.sportmonks.com/images/soccer/players/11/459371.png
+459399,/coach/459399/wilmar-valencia-pacheco/,W. Valencia Pacheco,Wilmar Valencia Pacheco,1961-10-27,59,Peru,
+459553,/coach/459553/flavius-vladimir-stoican/,F. Stoican,Flavius Vladimir Stoican,1976-11-24,39,Romania,
+459596,/coach/459596/claus-dieter-wollitz/,C. Wollitz,Claus-Dieter Wollitz,1965-07-19,21,Germany,https://cdn.sportmonks.com/images/soccer/players/12/459596.png
+459598,/coach/459598/tobias-cramer/,T. Cramer,Tobias Cramer,1974-09-10,21,Germany,
+459614,/coach/459614/leonardo-alfredo-ramos-giro/,L. Ramos Giró,Leonardo Alfredo Ramos Giró,1969-09-11,60,Uruguay,https://cdn.sportmonks.com/images/soccer/players/30/459614.png
+459651,/coach/459651/matjaz-kek/,M. Kek,Matjaž Kek,1961-09-09,44,Slovenia,https://cdn.sportmonks.com/images/soccer/players/3/459651.png
+459701,/coach/459701/luiz-antonio-venker-de-menezes/,L. Venker de Menezes,Luiz Antônio Venker de Menezes,1962-06-11,54,Brazil,
+459717,/coach/459717/bernd-hollerbach/,B. Hollerbach,Bernd Hollerbach,1969-12-08,21,Germany,
+459961,/coach/459961/jaime-garcia/,J. García,Jaime García,,55,Chile,
+460096,/coach/460096/francisco-escriba-segura/,F. Escriba Segura,Francisco Escriba Segura,1965-05-03,45,Spain,
+460151,/coach/460151/philippe-hinschberger/,P. Hinschberger,Philippe Hinschberger,1959-11-19,18,France,https://cdn.sportmonks.com/images/soccer/players/23/460151.png
+460152,/coach/460152/pedro-miguel-marques-da-costa-filipe/,P. Marques da Costa Filipe,Pedro Miguel Marques da Costa Filipe,1980-12-14,38,Portugal,
+460156,/coach/460156/rudiger-rehm/,R. Rehm,Rüdiger Rehm,1978-11-22,21,Germany,https://cdn.sportmonks.com/images/soccer/players/28/460156.png
+460164,/coach/460164/bruno-akrapovic/,B. Akrapović,Bruno Akrapović,1967-09-26,8,Bosnia and Herzegovina,
+460197,/coach/460197/christian-streich/,C. Streich,Christian Streich,1965-06-11,21,Germany,https://cdn.sportmonks.com/images/soccer/players/5/460197.png
+460205,/coach/460205/jens-hartel/,J. Härtel,Jens Härtel,1969-06-07,21,Germany,
+460239,/coach/460239/daniel-alejandro-farias-acosta/,D. Farías Acosta,Daniel Alejandro Farías Acosta,1981-09-28,61,Venezuela,https://cdn.sportmonks.com/images/soccer/players/15/460239.png
+460255,/coach/460255/torsten-lieberknecht/,T. Lieberknecht,Torsten Lieberknecht,1973-08-01,21,Germany,https://cdn.sportmonks.com/images/soccer/players/31/460255.png
+460370,/coach/460370/diego-martin-cocca-pera/,D. Cocca Pera,Diego Martín Cocca Pera,1972-02-11,52,Argentina,
+460391,/coach/460391/jens-gustafsson/,J. Gustafsson,Jens Gustafsson,1978-10-15,46,Sweden,https://cdn.sportmonks.com/images/soccer/players/7/460391.png
+460450,/coach/460450/taskin-aksoy/,T. Aksoy,Taşkın Aksoy,1967-06-13,48,Turkey,https://cdn.sportmonks.com/images/soccer/players/2/460450.png
+460451,/coach/460451/patrick-vieira/,P. Vieira,Patrick Vieira,1976-06-23,18,France,https://cdn.sportmonks.com/images//soccer/coaches/3/460451.png
+460535,/coach/460535/daniel-farke/,D. Farke,Daniel Farke,1976-10-30,21,Germany,
+460565,/coach/460565/dorival-silvestre-junior/,D. Silvestre Júnior,Dorival Silvestre Júnior,1962-04-25,54,Brazil,https://cdn.sportmonks.com/images/soccer/players/21/460565.png
+460566,/coach/460566/zoran-barisic/,Z. Barišić,Zoran Barišić,1970-05-22,4,Austria,https://cdn.sportmonks.com/images/soccer/players/22/460566.png
+460597,/coach/460597/abdullah-mucip-avci/,A. Avcı,Abdullah Mucip Avcı,1963-07-31,48,Turkey,
+460646,/coach/460646/torsten-ziegner/,T. Ziegner,Torsten Ziegner,1977-11-09,21,Germany,
+460940,/coach/460940/eugen-neagoe/,E. Neagoe,Eugen Neagoe,1967-08-22,39,Romania,
+460941,/coach/460941/nelson-baptista-junior/,N. Baptista Júnior,Nélson Baptista Júnior,1950-07-22,54,Brazil,https://cdn.sportmonks.com/images/soccer/players/13/460941.png
+461025,/coach/461025/toru-oniki/,T. Oniki,Toru Oniki,1974-04-20,163,Japan,https://cdn.sportmonks.com/images/soccer/players/1/461025.png
+461203,/coach/461203/murat-yakin/,M. Yakin,Murat Yakin,1974-09-15,47,Switzerland,https://cdn.sportmonks.com/images/soccer/players/19/461203.png
+462085,/coach/462085/julio-marcelo-fleitas-silveira/,J. Fleitas Silveira,Julio Marcelo Fleitas Silveira,1973-09-01,57,Ecuador,
+462184,/coach/462184/alen-horvat/,A. Horvat,Alen Horvat,1973-09-13,10,Croatia,
+462195,/coach/462195/moreno-longo/,M. Longo,Moreno Longo,1976-02-14,27,Italy,
+462411,/coach/462411/ricardo-rodriguez-suarez/,R. Rodríguez Suárez,Ricardo Rodríguez Suárez,1974-04-03,45,Spain,
+463146,/coach/463146/daniel-antonio-lopes-ramos/,D. Lopes Ramos,Daniel António Lopes Ramos,1970-12-25,38,Portugal,
+463195,/coach/463195/peter-pacult/,P. Pacult,Peter Pacult,1959-10-28,4,Austria,https://cdn.sportmonks.com/images/soccer/players/27/463195.png
+463883,/coach/463883/oleg-vasilenko/,O. Vasilenko,Oleg Vasilenko,1973-10-06,40,Russia,
+463903,/coach/463903/emiliano-astorga/,E. Astorga,Emiliano Astorga,1960-09-21,55,Chile,
+464141,/coach/464141/luis-manuel-ribeiro-de-castro/,L. Ribeiro de Castro,Luís Manuel Ribeiro de Castro,1961-09-03,38,Portugal,
+464277,/coach/464277/claudinei-dos-santos-oliveira/,C. dos Santos Oliveira,Claudinei dos Santos Oliveira,1969-09-29,54,Brazil,
+464744,/coach/464744/olivier-dalloglio/,O. Dall’Oglio,Olivier Dall’Oglio,1964-05-16,18,France,https://cdn.sportmonks.com/images/soccer/players/8/464744.png
+464754,/coach/464754/alvaro-cervera-diaz/,Á. Cervera Díaz,Álvaro Cervera Díaz,1965-09-20,45,Spain,
+464864,/coach/464864/nicolas-usai/,N. Usaï,Nicolas Usaï,1974-05-01,18,France,
+465026,/coach/465026/norredine-el-ouardini/,N. El Ouardini,Norredine El Ouardini,1978-01-04,18,France,
+465296,/coach/465296/andreas-alm/,A. Alm,Andreas Alm,1973-06-19,46,Sweden,https://cdn.sportmonks.com/images/soccer/players/16/465296.png
+465533,/coach/465533/fernando-ortiz/,F. Ortiz,Fernando Ortiz,1977-12-25,52,Argentina,
+465573,/coach/465573/julio-avelino-comesana-lopez/,J. Comesaña López,Julio Avelino Comesaña López,1948-03-10,60,Uruguay,
+465574,/coach/465574/hiroshi-nanami/,H. Nanami,Hiroshi Nanami,1972-11-28,163,Japan,
+465881,/coach/465881/woe-ryong-chang/,W. Chang,Woe-Ryong Chang,1959-04-05,167,Korea Republic,https://cdn.sportmonks.com/images/soccer/players/25/465881.png
+465969,/coach/465969/sung-hwan-cho/,S. Cho,Sung-Hwan Cho,1970-10-16,167,Korea Republic,
+466097,/coach/466097/mohammed-al-ayari/,M. Al-Ayari,Mohammed Al-Ayari,,145,Tunisia,
+466317,/coach/466317/jose-flavio-torres-diaz/,J. Torres Díaz,José Flavio Torres Díaz,1964-02-05,56,Colombia,
+466541,/coach/466541/diego-martinez-penas/,D. Martínez Penas,Diego Martínez Penas,1980-12-16,45,Spain,https://cdn.sportmonks.com/images//soccer/coaches/13/466541.png
+466678,/coach/466678/roberto-venturato/,R. Venturato,Roberto Venturato,1963-04-14,195,Australia,
+466902,/coach/466902/dilceu-junior-rocha/,D. Rocha,Dilceu Junior Rocha,1981-04-21,54,Brazil,
+467344,/coach/467344/claudio-tencati/,C. Tencati,Cláudio Tencati,1973-12-09,54,Brazil,
+467354,/coach/467354/naoki-soma/,N. Soma,Naoki Soma,1971-07-19,163,Japan,
+467441,/coach/467441/hernan-torres-oliveros/,H. Torres Oliveros,Hernán Torres Oliveros,1961-02-18,56,Colombia,
+467464,/coach/467464/gustavo-augusto-poyet-dominguez/,G. Poyet Domínguez,Gustavo Augusto Poyet Domínguez,1967-11-15,60,Uruguay,https://cdn.sportmonks.com/images/soccer/players/8/467464.png
+467517,/coach/467517/igor-stimac/,I. Štimac,Igor Štimac,1967-09-06,10,Croatia,
+467533,/coach/467533/leonardo-gonzalez/,L. González,Leonardo González,,61,Venezuela,
+467859,/coach/467859/jorge-francisco-almiron-quintana/,J. Almirón Quintana,Jorge Francisco Almirón Quintana,1971-06-19,52,Argentina,
+467951,/coach/467951/omar-de-felippe/,O. De Felippe,Omar De Felippe,1962-04-03,52,Argentina,
+468056,/coach/468056/juan-domingo-tolisano/,J. Tolisano,Juan Domingo Tolisano,,61,Venezuela,
+468196,/coach/468196/frank-dario-kudelka/,F. Kudelka,Frank Darío Kudelka,1961-05-12,52,Argentina,
+468200,/coach/468200/marcelo-daniel-gallardo/,M. Gallardo,Marcelo Daniel Gallardo,1976-01-18,52,Argentina,
+468222,/coach/468222/gustavo-alvarez/,G. Álvarez,Gustavo Álvarez,,52,Argentina,
+468236,/coach/468236/nestor-raul-gorosito/,N. Gorosito,Néstor Raúl Gorosito,1964-05-14,52,Argentina,
+468348,/coach/468348/martin-palermo/,M. Palermo,Martín Palermo,1973-11-07,52,Argentina,
+468375,/coach/468375/cesar-eduardo-vigevani/,C. Vigevani,César Eduardo Vigevani,1974-08-30,52,Argentina,
+468615,/coach/468615/mauro-lustrinelli/,M. Lustrinelli,Mauro Lustrinelli,1976-02-26,47,Switzerland,
+468645,/coach/468645/pablo-hernan-lavallen/,P. Lavallén,Pablo Hernán Lavallén,1972-09-07,52,Argentina,
+468798,/coach/468798/fabrizio-castori/,F. Castori,Fabrizio Castori,1954-07-11,27,Italy,
+468897,/coach/468897/fernando-jubero-carmona/,F. Jubero Carmona,Fernando Jubero Carmona,1974-02-27,45,Spain,
+469995,/coach/469995/gaute-ugelstad-helstrup/,G. Helstrup,Gaute Ugelstad Helstrup,1976-05-15,36,Norway,https://cdn.sportmonks.com/images/soccer/players/11/469995.png
+470310,/coach/470310/noel-sanvicente-bethelmy/,N. Sanvicente Bethelmy,Noel Sanvicente Bethelmy,1964-12-21,61,Venezuela,
+470363,/coach/470363/nicolas-ricardo-larcamon/,N. Larcamón,Nicolás Ricardo Larcamón,1984-08-11,52,Argentina,
+470494,/coach/470494/hubert-antonio-bodhert-barrios/,H. Bodhert Barrios,Hubert Antonio Bodhert Barrios,1972-01-17,56,Colombia,
+470514,/coach/470514/gustavo-adolfo-costas-makeira/,G. Costas Makeira,Gustavo Adolfo Costas Makeira,1963-02-28,52,Argentina,
+470515,/coach/470515/francisco-andres-bozan-santibanez/,F. Bozán Santibáñez,Francisco Andrés Bozán Santibáñez,1986-10-21,55,Chile,
+470838,/coach/470838/helio-cesar-pinto-dos-anjos/,H. Pinto dos Anjos,Hélio César Pinto dos Anjos,1958-03-07,54,Brazil,
+470935,/coach/470935/marcelo-fabian-grioni/,M. Grioni,Marcelo Fabián Grioni,1966-07-27,52,Argentina,https://cdn.sportmonks.com/images/soccer/players/23/470935.png
+470943,/coach/470943/ernesto-valverde-tejedor/,E. Valverde,Ernesto Valverde Tejedor,1964-02-09,45,Spain,https://cdn.sportmonks.com/images/soccer/players/31/470943.png
+471281,/coach/471281/carlos-mayor/,C. Mayor,Carlos Mayor,1965-10-05,52,Argentina,
+471322,/coach/471322/geovanny-patricio-cumbicus-castillo/,G. Cumbicus Castillo,Geovanny Patricio Cumbicus Castillo,1980-01-25,57,Ecuador,
+471459,/coach/471459/ismael-rescalvo-sanchez/,I. Rescalvo Sánchez,Ismael Rescalvo Sánchez,1982-03-02,45,Spain,
+471542,/coach/471542/kenta-hasegawa/,K. Hasegawa,Kenta Hasegawa,1965-09-25,163,Japan,
+471757,/coach/471757/miguel-andres-ponce-torres/,M. Ponce Torres,Miguel Andrés Ponce Torres,1971-08-19,55,Chile,
+471824,/coach/471824/diego-andres-corredor-hurtado/,D. Corredor Hurtado,Diego Andrés Corredor Hurtado,1981-06-30,56,Colombia,
+471878,/coach/471878/miguel-mauricio-ramirez-perez/,M. Ramírez Pérez,Miguel Mauricio Ramírez Pérez,1970-06-11,55,Chile,
+472575,/coach/472575/daniel-oscar-garnero/,D. Garnero,Daniel Oscar Garnero,1969-04-01,52,Argentina,
+474402,/coach/474402/herve-renard/,H. Renard,Hervé Renard,1968-09-30,18,France,https://cdn.sportmonks.com/images/soccer/players/2/474402.png
+474417,/coach/474417/markku-kanerva/,M. Kanerva,Markku Kanerva,1964-05-24,17,Finland,
+474427,/coach/474427/jan-olof-andersson/,J. Andersson,Jan Olof Andersson,1962-09-29,46,Sweden,https://cdn.sportmonks.com/images/soccer/players/27/474427.png
+474428,/coach/474428/bruce-arena/,B. Arena,Bruce Arena,1951-09-21,95,United States,https://cdn.sportmonks.com/images/soccer/players/28/474428.png
+474441,/coach/474441/gustavo-enrique-domingo-quinteros-desabato/,G. Quinteros Desábato,Gustavo Enrique Domingo Quinteros Desábato,1965-02-15,53,Bolivia,
+474444,/coach/474444/age-fridtjof-hareide/,Å. Fridtjof Hareide,Åge Fridtjof Hareide,1953-09-23,36,Norway,https://cdn.sportmonks.com/images/soccer/players/12/474444.png
+474483,/coach/474483/ante-cacic/,A. Čačić,Ante Čačić,1953-09-29,10,Croatia,
+474498,/coach/474498/stephen-constantine/,S. Constantine,Stephen Constantine,1962-10-16,14,England,
+474589,/coach/474589/gareth-southgate/,G. Southgate,Gareth Southgate,1970-09-03,14,England,https://cdn.sportmonks.com/images/soccer/players/29/474589.png
+474616,/coach/474616/didier-deschamps/,D. Deschamps,Didier Deschamps,1968-10-15,18,France,https://cdn.sportmonks.com/images/soccer/players/24/474616.png
+474720,/coach/474720/adenor-leonardo-bacchi/,A. Bacchi,Adenor Leonardo Bacchi,1961-05-25,54,Brazil,
+474728,/coach/474728/julen-lopetegui-argote/,J. Lopetegui Argote,Julen Lopetegui Argote,1966-08-28,45,Spain,https://cdn.sportmonks.com/images/soccer/players/8/474728.png
+474731,/coach/474731/jose-nestor-pekerman/,J. Pekerman,José Néstor Pekerman,1949-09-03,52,Argentina,https://cdn.sportmonks.com/images/soccer/players/11/474731.png
+474734,/coach/474734/rafael-edgar-dudamel-ochoa/,R. Dudamel Ochoa,Rafael Edgar Dudamel Ochoa,1973-01-07,61,Venezuela,
+474745,/coach/474745/francisco-javier-arce-rolon/,F. Arce Rolón,Francisco Javier Arce Rolón,1971-04-02,58,Paraguay,
+474761,/coach/474761/bernd-storck/,B. Storck,Bernd Storck,1963-01-25,21,Germany,
+474796,/coach/474796/roberto-martinez-montoliu/,R. Martínez Montoliú,Roberto Martínez Montoliú,1973-07-13,45,Spain,https://cdn.sportmonks.com/images/soccer/players/12/474796.png
+507784,/coach/507784/luis-miguel-floro-valenca/,L. Floro Valença,Luís Miguel Floro Valença,1989-12-15,38,Portugal,
+513778,/coach/513778/francesco-baldini/,F. Baldini,Francesco Baldini,1974-03-14,27,Italy,
+516577,/coach/516577/greg-vanney/,G. Vanney,Greg Vanney,1974-06-11,95,United States,https://cdn.sportmonks.com/images//soccer/coaches/1/516577.png
+516707,/coach/516707/jose-rafael-garcia-torres/,J. García Torres,José Rafael García Torres,1974-08-14,83,Mexico,
+518875,/coach/518875/bo-henriksen/,B. Henriksen,Bo Henriksen,1975-02-07,13,Denmark,
+523896,/coach/523896/manuel-eduardo-berizzo/,M. Berizzo,Manuel Eduardo Berizzo,1969-11-13,52,Argentina,
+523897,/coach/523897/luciano-spalletti/,L. Spalletti,Luciano Spalletti,1959-03-07,27,Italy,https://cdn.sportmonks.com/images/soccer/players/25/523897.png
+523898,/coach/523898/manuel-luis-pellegrini-ripamonti/,M. Pellegrini,Manuel Luis Pellegrini Ripamonti,1953-09-16,55,Chile,https://cdn.sportmonks.com/images/soccer/players/26/523898.png
+523905,/coach/523905/rudi-garcia/,R. Garcia,Rudi Garcia,1964-02-20,18,France,https://cdn.sportmonks.com/images/soccer/players/1/523905.png
+523906,/coach/523906/gilmar-dal-pozzo/,G. Dal Pozzo,Gilmar Dal Pozzo,1969-09-01,54,Brazil,
+523909,/coach/523909/oscar-garcia-junyent/,Ó. García Junyent,Óscar García Junyent,1973-04-26,45,Spain,
+523911,/coach/523911/eddie-howe/,E. Howe,Eddie Howe,1977-11-29,14,England,https://cdn.sportmonks.com/images//soccer/coaches/7/523911.png
+523923,/coach/523923/jorge-fernando-pinheiro-de-jesus/,J. Pinheiro de Jesus,Jorge Fernando Pinheiro de Jesus,1954-07-24,38,Portugal,https://cdn.sportmonks.com/images/soccer/players/19/523923.png
+523928,/coach/523928/sergio-paulo-marceneiro-conceicao/,S. Marceneiro Conceição,Sérgio Paulo Marceneiro Conceição,1974-11-15,38,Portugal,https://cdn.sportmonks.com/images//soccer/coaches/24/523928.png
+523929,/coach/523929/john-van-den-brom/,J. van den Brom,John van den Brom,1966-10-04,34,Netherlands,https://cdn.sportmonks.com/images/soccer/players/25/523929.png
+523936,/coach/523936/markus-weinzierl/,M. Weinzierl,Markus Weinzierl,1974-12-28,21,Germany,https://cdn.sportmonks.com/images/soccer/players/0/523936.png
+523953,/coach/523953/bruno-genesio/,B. Génésio,Bruno Génésio,1966-09-01,18,France,
+523954,/coach/523954/riza-calimbay/,R. Çalımbay,Rıza Çalımbay,1963-02-02,48,Turkey,
+523959,/coach/523959/luis-enrique-martinez-garcia/,L. Martínez García,Luis Enrique Martínez García,1970-05-08,45,Spain,https://cdn.sportmonks.com/images/soccer/players/23/523959.png
+523962,/coach/523962/stale-solbakken/,S. Solbakken,Ståle Solbakken,1968-02-27,36,Norway,https://cdn.sportmonks.com/images/soccer/players/26/523962.png
+523972,/coach/523972/henk-fraser/,H. Fraser,Henk Fraser,1966-07-07,34,Netherlands,
+523984,/coach/523984/simon-grayson/,S. Grayson,Simon Grayson,1969-12-16,14,England,
+524011,/coach/524011/christophe-galtier/,C. Galtier,Christophe Galtier,1966-08-28,18,France,https://cdn.sportmonks.com/images/soccer/players/11/524011.png
+524027,/coach/524027/derek-adams/,D. Adams,Derek Adams,1975-06-25,42,Scotland,
+524030,/coach/524030/vincenzo-montella/,V. Montella,Vincenzo Montella,1974-06-18,27,Italy,
+524071,/coach/524071/pablo-andres-mastroeni/,P. Mastroeni,Pablo Andrés Mastroeni,1976-08-29,95,United States,https://cdn.sportmonks.com/images//soccer/coaches/7/524071.png
+524143,/coach/524143/juan-maximo-reynoso-guzman/,J. Reynoso Guzmán,Juan Máximo Reynoso Guzmán,1969-12-28,59,Peru,
+524176,/coach/524176/jaroslav-silhavy/,J. Šilhavý,Jaroslav Šilhavý,1961-11-03,12,Czech Republic,https://cdn.sportmonks.com/images/soccer/players/16/524176.png
+524208,/coach/524208/steve-evans/,S. Evans,Steve Evans,1962-10-30,42,Scotland,
+524215,/coach/524215/stephen-robinson/,S. Robinson,Stephen Robinson,1974-12-10,35,Northern Ireland,
+524236,/coach/524236/darrell-clarke/,D. Clarke,Darrell Clarke,1977-12-16,14,England,
+524237,/coach/524237/dean-smith/,D. Smith,Dean Smith,1971-03-19,14,England,
+524249,/coach/524249/keith-hill/,K. Hill,Keith Hill,1969-05-17,14,England,
+524250,/coach/524250/ryszard-tarasiewicz/,R. Tarasiewicz,Ryszard Tarasiewicz,1962-04-27,37,Poland,
+524286,/coach/524286/jean-marc-furlan/,J. Furlan,Jean-Marc Furlan,1957-11-20,18,France,https://cdn.sportmonks.com/images/soccer/players/30/524286.png
+524289,/coach/524289/juan-antonio-albacete-anquela/,J. Albacete Anquela,Juan Antonio Albacete Anquela,1957-09-11,45,Spain,
+524291,/coach/524291/jim-curtin/,J. Curtin,Jim Curtin,1979-06-23,95,United States,https://cdn.sportmonks.com/images//soccer/coaches/3/524291.png
+524297,/coach/524297/ralph-hasenhuttl/,R. Hasenhüttl,Ralph Hasenhüttl,1967-08-09,4,Austria,https://cdn.sportmonks.com/images/soccer/players/9/524297.png
+524299,/coach/524299/luke-williams/,L. Williams,Luke Williams,,14,England,
+524305,/coach/524305/mihailo-petrovic/,M. Petrović,Mihailo Petrović,1957-10-18,4,Austria,https://cdn.sportmonks.com/images/soccer/players/17/524305.png
+524310,/coach/524310/michael-appleton/,M. Appleton,Michael Appleton,1975-12-04,14,England,
+524311,/coach/524311/alexander-zorniger/,A. Zorniger,Alexander Zorniger,1967-10-08,21,Germany,https://cdn.sportmonks.com/images/soccer/players/23/524311.png
+524320,/coach/524320/takahiro-shimotaira/,T. Shimotaira,Takahiro Shimotaira,1971-12-18,163,Japan,https://cdn.sportmonks.com/images/soccer/players/0/524320.png
+524328,/coach/524328/fabio-carille/,F. Carille,Fábio Carille,1973-09-26,54,Brazil,
+524374,/coach/524374/uwe-rosler/,U. Rösler,Uwe Rösler,1968-11-15,21,Germany,
+524398,/coach/524398/peter-vermes/,P. Vermes,Peter Vermes,1966-11-21,95,United States,https://cdn.sportmonks.com/images/soccer/players/14/524398.png
+524400,/coach/524400/hiroki-shibuya/,H. Shibuya,Hiroki Shibuya,1966-11-30,163,Japan,
+524428,/coach/524428/keith-curle/,K. Curle,Keith Curle,1963-11-14,14,England,
+524431,/coach/524431/luis-francisco-zubeldia/,L. Zubeldía,Luis Francisco Zubeldía,1981-01-13,52,Argentina,
+524461,/coach/524461/joan-francesc-ferrer-sicilia/,J. Ferrer Sicilia,Joan Francesc Ferrer Sicilia,1970-02-05,45,Spain,https://cdn.sportmonks.com/images/soccer/players/13/524461.png
+524476,/coach/524476/domenico-di-carlo/,D. Di Carlo,Domenico Di Carlo,1964-03-23,27,Italy,
+524523,/coach/524523/gheorghe-hagi/,G. Hagi,Gheorghe Hagi,1965-02-05,39,Romania,
+524533,/coach/524533/joe-zinnbauer/,J. Zinnbauer,Joe Zinnbauer,1970-05-01,21,Germany,
+524537,/coach/524537/niko-kovac/,N. Kovač,Niko Kovač,1971-10-15,10,Croatia,https://cdn.sportmonks.com/images/soccer/players/25/524537.png
+524552,/coach/524552/jesse-marsch/,J. Marsch,Jesse Marsch,1973-11-08,95,United States,
+524572,/coach/524572/john-coleman/,J. Coleman,John Coleman,1962-10-12,14,England,
+524660,/coach/524660/guillermo-fernandez-romo/,G. Fernández Romo,Guillermo Fernández Romo,,45,Spain,
+524771,/coach/524771/vincent-bordot/,V. Bordot,Vincent Bordot,1975-04-09,18,France,
+524834,/coach/524834/jon-andoni-perez-alonso/,J. Pérez Alonso,Jon Andoni Pérez Alonso,1974-03-05,45,Spain,
+524989,/coach/524989/sebastien-dubroca/,S. Dubroca,Sébastien Dubroca,1980-04-21,18,France,
+525679,/coach/525679/josep-oriol-alsina-garcia/,J. Alsina García,Josep Oriol Alsina García,1968-08-21,45,Spain,
+526036,/coach/526036/marek-papszun/,M. Papszun,Marek Papszun,1974-08-08,37,Poland,
+526194,/coach/526194/alexi-stival/,A. Stival,Alexi Stival,1963-06-07,54,Brazil,https://cdn.sportmonks.com/images/soccer/players/18/526194.png
+526236,/coach/526236/thomas-letsch/,T. Letsch,Thomas Letsch,1968-08-26,21,Germany,
+526240,/coach/526240/roberto-orlando-mosquera-vera/,R. Mosquera Vera,Roberto Orlando Mosquera Vera,1956-06-21,59,Peru,
+526987,/coach/526987/pablo-peirano-pardeiro/,P. Peirano Pardeiro,Pablo Peirano Pardeiro,1975-05-21,60,Uruguay,
+527346,/coach/527346/julien-stephan/,J. Stéphan,Julien Stéphan,1980-09-18,18,France,
+528418,/coach/528418/juan-ferrando-fenol/,J. Ferrando Fenol,Juan Ferrando Fenol,1981-01-02,45,Spain,
+529460,/coach/529460/laurent-peyrelade/,L. Peyrelade,Laurent Peyrelade,1970-07-07,18,France,
+529482,/coach/529482/regis-le-bris/,R. Le Bris,Régis Le Bris,1975-12-06,18,France,https://cdn.sportmonks.com/images//soccer/coaches/10/529482.png
+529595,/coach/529595/romain-revelli/,R. Revelli,Romain Revelli,1977-08-22,18,France,
+529830,/coach/529830/david-guion/,D. Guion,David Guion,1967-09-30,18,France,
+530329,/coach/530329/pascal-gastien/,P. Gastien,Pascal Gastien,1963-12-02,18,France,https://cdn.sportmonks.com/images//soccer/coaches/25/530329.png
+530755,/coach/530755/imanol-alguacil-barrenetxea/,I. Alguacil Barrenetxea,Imanol Alguacil Barrenetxea,1971-07-04,45,Spain,
+531488,/coach/531488/cesar-alejandro-farias-acosta/,C. Farías Acosta,César Alejandro Farías Acosta,1973-03-07,61,Venezuela,
+531536,/coach/531536/guillermo-duro/,G. Duró,Guillermo Duró,1969-03-14,52,Argentina,
+532352,/coach/532352/david-gallego-rodriguez/,D. Gallego Rodríguez,David Gallego Rodríguez,1972-01-26,45,Spain,
+532808,/coach/532808/victor-hugo-antelo/,V. Antelo,Victor Hugo Antelo,1964-11-02,53,Bolivia,
+533275,/coach/533275/adriano-rodrigues-da-silva/,A. Rodrigues da Silva,Adriano Rodrigues da Silva,,54,Brazil,
+533737,/coach/533737/alfredo-santaelena-aguado/,A. Santaelena Aguado,Alfredo Santaelena Aguado,1967-10-13,45,Spain,https://cdn.sportmonks.com/images/soccer/players/9/533737.png
+533871,/coach/533871/ruben-albes-yanez/,R. Albés Yáñez,Rubén Albés Yáñez,1985-02-24,45,Spain,
+533879,/coach/533879/jose-angel-ziganda-lacunza/,J. Ziganda Lacunza,José Ángel Ziganda Lacunza,1966-10-01,45,Spain,
+533904,/coach/533904/francisco-jose-lopez-fernandez/,F. López Fernández,Francisco José López Fernández,1967-09-19,45,Spain,
+535591,/coach/535591/michael-skibbe/,M. Skibbe,Michael Skibbe,1965-08-04,21,Germany,https://cdn.sportmonks.com/images/soccer/players/7/535591.png
+536978,/coach/536978/stephen-kenny/,S. Kenny,Stephen Kenny,1971-10-30,25,Republic of Ireland,https://cdn.sportmonks.com/images/soccer/players/18/536978.png
+586853,/coach/586853/andreas-brannstrom/,A. Brännström,Andreas Brännström,,46,Sweden,
+749101,/coach/749101/ante-milicic/,A. Milicic,Ante Milicic,1974-04-04,195,Australia,https://cdn.sportmonks.com/images/soccer/players/13/749101.png
+765710,/coach/765710/javier-sanguinetti/,J. Sanguinetti,Javier Sanguinetti,,52,Argentina,
+765787,/coach/765787/carlos-alberto-silva-socarras/,C. Silva Socarrás,Carlos Alberto Silva Socarrás,1973-04-29,56,Colombia,
+781677,/coach/781677/jorge-jose-de-amorim-campos/,J. de Amorim Campos,Jorge José de Amorim Campos,1964-08-17,54,Brazil,
+784331,/coach/784331/akira-ito/,A. Ito,Akira Ito,1972-09-19,163,Japan,
+784486,/coach/784486/roberto-mancini/,R. Mancini,Roberto Mancini,1964-11-27,27,Italy,https://cdn.sportmonks.com/images/soccer/players/6/784486.png
+784547,/coach/784547/oleg-kononov/,O. Kononov,Oleg Kononov,1966-03-23,6,Belarus,
+785611,/coach/785611/mauricio-soria-portillo/,M. Soria Portillo,Mauricio Soria Portillo,1966-06-01,53,Bolivia,
+882970,/coach/882970/leonid-slutskiy/,L. Slutskiy,Leonid Slutskiy,1971-05-04,40,Russia,https://cdn.sportmonks.com/images/soccer/players/26/882970.png
+883002,/coach/883002/edward-iordanescu/,E. Iordănescu,Edward Iordănescu,1978-06-16,39,Romania,https://cdn.sportmonks.com/images/soccer/players/26/883002.png
+883017,/coach/883017/roger-schmidt/,R. Schmidt,Roger Schmidt,1967-03-13,21,Germany,https://cdn.sportmonks.com/images/soccer/players/9/883017.png
+883019,/coach/883019/dan-vasile-petrescu/,D. Petrescu,Dan Vasile Petrescu,1967-12-22,39,Romania,
+883029,/coach/883029/nestor-oscar-craviotto/,N. Craviotto,Néstor Oscar Craviotto,1963-10-06,52,Argentina,
+883095,/coach/883095/gaizka-garitano-aguirre/,G. Garitano Aguirre,Gaizka Garitano Aguirre,1975-07-09,45,Spain,
+893657,/coach/893657/fabio-gallo/,F. Gallo,Fabio Gallo,1970-09-11,27,Italy,
+893783,/coach/893783/fabian-daniel-bustos/,F. Bustos,Fabián Daniel Bustos,1969-03-28,52,Argentina,
+896106,/coach/896106/hugo-broos/,H. Broos,Hugo Broos,1952-04-10,7,Belgium,
+896131,/coach/896131/stefan-kuntz/,S. Kuntz,Stefan Kuntz,1962-10-30,21,Germany,
+896137,/coach/896137/niels-frederiksen/,N. Frederiksen,Niels Frederiksen,1968-09-11,13,Denmark,https://cdn.sportmonks.com/images/soccer/players/9/896137.png
+896292,/coach/896292/juan-carlos-osorio-arbelaez/,J. Osorio Arbeláez,Juan Carlos Osorio Arbeláez,1961-06-08,56,Colombia,https://cdn.sportmonks.com/images/soccer/players/4/896292.png
+896300,/coach/896300/stanislav-cherchesov/,S. Cherchesov,Stanislav Cherchesov,1963-09-02,40,Russia,
+896314,/coach/896314/fernando-manuel-fernandes-da-costa-santos/,F. Fernandes da Costa Santos,Fernando Manuel Fernandes da Costa Santos,1954-10-10,38,Portugal,https://cdn.sportmonks.com/images/soccer/players/26/896314.png
+896460,/coach/896460/brendan-rodgers/,B. Rodgers,Brendan Rodgers,1973-01-26,35,Northern Ireland,https://cdn.sportmonks.com/images//soccer/players/12/896460.png
+896462,/coach/896462/derek-mcinnes/,D. McInnes,Derek McInnes,1971-07-05,42,Scotland,
+896473,/coach/896473/aitor-karanka-de-la-hoz/,A. Karanka de la Hoz,Aitor Karanka de la Hoz,1973-09-18,45,Spain,
+896475,/coach/896475/bob-bradley/,B. Bradley,Bob Bradley,1958-03-03,95,United States,https://cdn.sportmonks.com/images/soccer/players/27/896475.png
+896485,/coach/896485/dick-schreuder/,D. Schreuder,Dick Schreuder,1971-08-12,34,Netherlands,
+896498,/coach/896498/micky-mellon/,M. Mellon,Micky Mellon,1972-03-18,42,Scotland,https://cdn.sportmonks.com/images/soccer/players/18/896498.png
+896501,/coach/896501/robert-page/,R. Page,Robert Page,1974-09-03,50,Wales,
+896508,/coach/896508/markus-kauczinski/,M. Kauczinski,Markus Kauczinski,1970-02-20,21,Germany,https://cdn.sportmonks.com/images/soccer/players/28/896508.png
+896509,/coach/896509/dirk-schuster/,D. Schuster,Dirk Schuster,1967-12-29,21,Germany,https://cdn.sportmonks.com/images/soccer/players/29/896509.png
+896510,/coach/896510/paulo-jorge-gomes-bento/,P. Gomes Bento,Paulo Jorge Gomes Bento,1969-06-20,38,Portugal,https://cdn.sportmonks.com/images/soccer/players/30/896510.png
+896517,/coach/896517/aleksandar-jankovic/,A. Janković,Aleksandar Janković,1972-05-06,51,Serbia,
+896519,/coach/896519/hein-vanhaezebrouck/,H. Vanhaezebrouck,Hein Vanhaezebrouck,1964-02-16,7,Belgium,https://cdn.sportmonks.com/images/soccer/players/7/896519.png
+896531,/coach/896531/alois-schwartz/,A. Schwartz,Alois Schwartz,1967-03-28,21,Germany,https://cdn.sportmonks.com/images/soccer/players/19/896531.png
+896532,/coach/896532/olaf-janssen/,O. Janßen,Olaf Janßen,1966-10-08,21,Germany,https://cdn.sportmonks.com/images/soccer/players/20/896532.png
+896541,/coach/896541/danny-cowley/,D. Cowley,Danny Cowley,,14,England,
+896545,/coach/896545/john-askey/,J. Askey,John Askey,1964-11-04,14,England,
+896549,/coach/896549/kosta-runjaic/,K. Runjaic,Kosta Runjaic,1971-06-04,21,Germany,https://cdn.sportmonks.com/images/soccer/players/5/896549.png
+896551,/coach/896551/philippe-montanier/,P. Montanier,Philippe Montanier,1964-11-15,18,France,https://cdn.sportmonks.com/images/soccer/players/7/896551.png
+896553,/coach/896553/nigel-pearson/,N. Pearson,Nigel Pearson,1963-08-21,14,England,
+896570,/coach/896570/valerien-ismael/,V. Ismaël,Valérien Ismaël,1975-09-28,18,France,https://cdn.sportmonks.com/images/soccer/players/26/896570.png
+896608,/coach/896608/franck-haise/,F. Haise,Franck Haise,1971-04-15,18,France,https://cdn.sportmonks.com/images/soccer/players/0/896608.png
+896619,/coach/896619/lukas-kwasniok/,L. Kwasniok,Lukas Kwasniok,1981-06-12,21,Germany,
+896621,/coach/896621/franco-lerda/,F. Lerda,Franco Lerda,1967-08-19,27,Italy,
+896625,/coach/896625/domenico-toscano/,D. Toscano,Domenico Toscano,,27,Italy,
+896634,/coach/896634/pierpaolo-bisoli/,P. Bisoli,Pierpaolo Bisoli,1966-11-20,27,Italy,https://cdn.sportmonks.com/images/soccer/players/26/896634.png
+896649,/coach/896649/abelardo-fernandez-antuna/,A. Fernández Antuña,Abelardo Fernández Antuña,1970-04-19,45,Spain,https://cdn.sportmonks.com/images/soccer/players/9/896649.png
+896655,/coach/896655/giorgio-contini/,G. Contini,Giorgio Contini,1974-01-04,47,Switzerland,https://cdn.sportmonks.com/images/soccer/players/15/896655.png
+896657,/coach/896657/raul-agne-montull/,R. Agné Montull,Raúl Agné Montull,1970-05-24,45,Spain,
+896662,/coach/896662/francisco-javier-fernandez-diaz/,F. Fernández Díaz,Francisco Javier Fernández Díaz,1980-03-20,45,Spain,
+896664,/coach/896664/ricardo-alberto-zielinski/,R. Zielinski,Ricardo Alberto Zielinski,1959-10-14,52,Argentina,
+896665,/coach/896665/leonardo-carol-madelon/,L. Madelón,Leonardo Carol Madelón,1963-01-25,52,Argentina,
+896740,/coach/896740/per-mathias-hogmo/,P. Høgmo,Per-Mathias Høgmo,1959-12-01,36,Norway,https://cdn.sportmonks.com/images/soccer/players/4/896740.png
+896756,/coach/896756/matias-jesus-almeyda/,M. Almeyda,Matías Jesús Almeyda,1973-12-21,52,Argentina,https://cdn.sportmonks.com/images//soccer/coaches/20/896756.png
+896757,/coach/896757/diego-martin-alonso-lopez/,D. Alonso López,Diego Martín Alonso López,1975-04-16,60,Uruguay,
+896759,/coach/896759/luis-alfonso-sosa-cisneros/,L. Sosa Cisneros,Luis Alfonso Sosa Cisneros,1967-10-05,83,Mexico,
+896760,/coach/896760/javier-luis-torrente/,J. Torrente,Javier Luis Torrente,1969-06-08,52,Argentina,
+896765,/coach/896765/miguel-ernesto-herrera-aguirre/,M. Herrera Aguirre,Miguel Ernesto Herrera Aguirre,1968-03-18,83,Mexico,https://cdn.sportmonks.com/images/soccer/players/29/896765.png
+896766,/coach/896766/ricardo-alfredo-valino/,R. Valiño,Ricardo Alfredo Valiño,1971-01-02,52,Argentina,
+896767,/coach/896767/victor-manuel-vucetich-rojas/,V. Vucetich Rojas,Víctor Manuel Vucetich Rojas,1955-06-25,83,Mexico,
+896771,/coach/896771/gerardo-daniel-martino/,G. Martino,Gerardo Daniel Martino,1962-11-20,52,Argentina,https://cdn.sportmonks.com/images/soccer/players/3/896771.png
+896776,/coach/896776/alexandre-borges-guimaraes/,A. Borges Guimarães,Alexandre Borges Guimarães,1959-11-07,72,Costa Rica,https://cdn.sportmonks.com/images/soccer/players/8/896776.png
+896782,/coach/896782/tony-popovic/,T. Popović,Tony Popović,1973-07-04,195,Australia,https://cdn.sportmonks.com/images/soccer/players/14/896782.png
+896783,/coach/896783/john-aloisi/,J. Aloisi,John Aloisi,1976-02-05,195,Australia,https://cdn.sportmonks.com/images/soccer/players/15/896783.png
+896785,/coach/896785/zlatko-dalic/,Z. Dalić,Zlatko Dalić,1966-10-26,10,Croatia,
+896791,/coach/896791/jung-won-seo/,J. Seo,Jung-Won Seo,1970-12-17,167,Korea Republic,
+896798,/coach/896798/javier-aguirre-onaindia/,J. Aguirre Onaindía,Javier Aguirre Onaindía,1958-12-01,83,Mexico,
+896803,/coach/896803/aurelian-cosmin-olaroiu/,A. Olăroiu,Aurelian Cosmin Olăroiu,1969-06-10,39,Romania,
+896805,/coach/896805/angelos-postecoglou/,A. Postecoglou,Angelos Postecoglou,1965-07-27,195,Australia,https://cdn.sportmonks.com/images/soccer/players/5/896805.png
+942497,/coach/942497/tae-wan-kim/,T. Kim,Tae-Wan Kim,1971-06-01,167,Korea Republic,
+942499,/coach/942499/ki-il-nam/,K. Nam,Ki-Il Nam,1974-08-17,167,Korea Republic,
+942515,/coach/942515/aidy-boothroyd/,A. Boothroyd,Aidy Boothroyd,1971-02-08,14,England,
+978851,/coach/978851/pat-devlin/,P. Devlin,Pat Devlin,,25,Republic of Ireland,
+1021664,/coach/1021664/jong-boo-kim/,J. Kim,Jong-Boo Kim,1965-01-13,167,Korea Republic,
+1025473,/coach/1025473/giovanni-savarese/,G. Savarese,Giovanni Savarese,1971-07-14,61,Venezuela,https://cdn.sportmonks.com/images/soccer/players/1/1025473.png
+1030184,/coach/1030184/felice-mazzu/,F. Mazzù,Felice Mazzù,1966-03-12,7,Belgium,https://cdn.sportmonks.com/images/soccer/players/8/1030184.png
+1030203,/coach/1030203/yves-vanderhaeghe/,Y. Vanderhaeghe,Yves Vanderhaeghe,1970-01-30,7,Belgium,
+1030239,/coach/1030239/warren-moon/,W. Moon,Warren Moon,1982-05-27,14,England,
+1030277,/coach/1030277/arturo-ernesto-reyes-montero/,A. Reyes Montero,Arturo Ernesto Reyes Montero,1969-04-08,56,Colombia,
+1030279,/coach/1030279/jose-alberto-suarez-giraldo/,J. Suárez Giraldo,José Alberto Suárez Giraldo,,56,Colombia,
+1068543,/coach/1068543/juan-jose-rojo-martin/,J. Rojo Martín,Juan José Rojo Martín,1968-03-23,45,Spain,
+1068555,/coach/1068555/john-caulfield/,J. Caulfield,John Caulfield,1964-10-11,25,Republic of Ireland,
+1076939,/coach/1076939/felix-sanchez-bas/,F. Sanchez Bas,Felix Sanchez Bas,,45,Spain,https://cdn.sportmonks.com/images/soccer/players/11/1076939.png
+1076985,/coach/1076985/flavio-horacio-robatto/,F. Robatto,Flavio Horacio Robatto,1974-01-16,52,Argentina,
+1182371,/coach/1182371/trevor-croly/,T. Croly,Trevor Croly,1974-02-23,25,Republic of Ireland,
+1452147,/coach/1452147/stuart-taylor/,S. Taylor,Stuart Taylor,1974-11-26,42,Scotland,https://cdn.sportmonks.com/images/soccer/players/19/1452147.png
+1452201,/coach/1452201/dmytro-parfenov/,D. Parfenov,Dmytro Parfenov,1974-09-11,49,Ukraine,
+1452203,/coach/1452203/christian-ilzer/,C. Ilzer,Christian Ilzer,1977-10-21,4,Austria,
+1452340,/coach/1452340/josep-clotet-ruiz/,J. Clotet Ruiz,Josep Clotet Ruiz,1977-04-27,45,Spain,
+1452584,/coach/1452584/jose-albano-ferreira-da-mota/,J. Ferreira da Mota,José Albano Ferreira da Mota,1964-02-25,38,Portugal,
+1452767,/coach/1452767/cesar-fernando-torres-ramirez/,C. Torres Ramírez,César Fernando Torres Ramírez,1976-09-23,56,Colombia,
+1452907,/coach/1452907/ian-baraclough/,I. Baraclough,Ian Baraclough,1970-12-04,14,England,
+1452924,/coach/1452924/jan-stahre/,J. Stahre,Jan Stahre,,46,Sweden,
+1453115,/coach/1453115/christer-mattiasson/,C. Mattiasson,Christer Mattiasson,,46,Sweden,
+1467959,/coach/1467959/dave-challinor/,D. Challinor,Dave Challinor,1975-10-02,14,England,
+1468170,/coach/1468170/jose-fernando-santa-robledo/,J. Santa Robledo,José Fernando Santa Robledo,1970-09-12,56,Colombia,
+1477272,/coach/1477272/bruno-irles/,B. Irles,Bruno Irles,1975-08-16,18,France,https://cdn.sportmonks.com/images//soccer/coaches/24/1477272.png
+1489365,/coach/1489365/derrick-pereira/,D. Pereira,Derrick Pereira,1962-03-17,159,India,
+1494028,/coach/1494028/pablo-eduardo-repetto-aquino/,P. Repetto Aquino,Pablo Eduardo Repetto Aquino,1974-03-14,60,Uruguay,
+1525420,/coach/1525420/graham-arnold/,G. Arnold,Graham Arnold,1963-07-03,195,Australia,https://cdn.sportmonks.com/images/soccer/players/12/1525420.png
+1532970,/coach/1532970/ian-mccall/,I. McCall,Ian McCall,,42,Scotland,
+1533122,/coach/1533122/pedro-emanuel-dos-santos-martins-silva/,P. dos Santos Martins Silva,Pedro Emanuel dos Santos Martins Silva,1975-02-11,38,Portugal,
+1533127,/coach/1533127/marc-brys/,M. Brys,Marc Brys,1962-05-10,7,Belgium,
+1533141,/coach/1533141/andrey-talalaev/,A. Talalaev,Andrey Talalaev,1972-10-05,40,Russia,
+1533144,/coach/1533144/paulo-lourenco-martins-alves/,P. Martins Alves,Paulo Lourenço Martins Alves,1969-12-10,38,Portugal,
+1547985,/coach/1547985/markus-mader/,M. Mader,Markus Mader,1968-05-19,4,Austria,
+1548455,/coach/1548455/horst-steffen/,H. Steffen,Horst Steffen,1969-03-03,21,Germany,https://cdn.sportmonks.com/images/soccer/players/7/1548455.png
+1548557,/coach/1548557/alexandre-pallares/,A. Pallarés,Alexandré Pallarés,1979-12-12,45,Spain,
+1552127,/coach/1552127/filipe-goncalo-pinto-martins/,F. Pinto Martins,Filipe Gonçalo Pinto Martins,1978-05-29,38,Portugal,
+1552186,/coach/1552186/simon-weaver/,S. Weaver,Simon Weaver,1977-12-20,14,England,
+1552200,/coach/1552200/dean-brennan/,D. Brennan,Dean Brennan,1980-06-17,25,Republic of Ireland,
+1552207,/coach/1552207/mariano-soso/,M. Soso,Mariano Soso,1981-04-30,52,Argentina,
+1552268,/coach/1552268/arthur-thomas-papastamatis/,A. Papastamatis,Arthur Thomas Papastamatis,1969-03-03,195,Australia,
+1552334,/coach/1552334/laurent-guyot/,L. Guyot,Laurent Guyot,1969-12-17,18,France,
+1552400,/coach/1552400/konrad-funfstuck/,K. Fünfstück,Konrad Fünfstück,1980-10-07,21,Germany,
+1552403,/coach/1552403/adrie-poldervaart/,A. Poldervaart,Adrie Poldervaart,1970-12-20,34,Netherlands,
+1552424,/coach/1552424/manuel-marquez-roca/,M. Márquez Roca,Manuel Márquez Roca,1968-09-07,45,Spain,
+1552477,/coach/1552477/tim-walter/,T. Walter,Tim Walter,1975-11-08,21,Germany,
+1552508,/coach/1552508/marcos-ignacio-ambriz-espinoza/,M. Ambriz Espinoza,Marcos Ignacio Ambriz Espinoza,1965-02-07,83,Mexico,
+1552555,/coach/1552555/sascha-hildmann/,S. Hildmann,Sascha Hildmann,1972-04-07,21,Germany,
+1552604,/coach/1552604/vuk-rasovic/,V. Rašović,Vuk Rašović,1973-01-03,51,Serbia,
+1552672,/coach/1552672/markus-schopp/,M. Schopp,Markus Schopp,1974-02-22,4,Austria,
+1552696,/coach/1552696/mauricio-nogueira-barbieri/,M. Nogueira Barbieri,Maurício Nogueira Barbieri,1981-09-30,54,Brazil,
+1552810,/coach/1552810/ramon-angel-diaz/,R. Díaz,Ramón Ángel Díaz,1959-08-29,52,Argentina,
+1552812,/coach/1552812/raul-erasto-jacobo-gutierrez/,R. Jacobo Gutierrez,Raul Erasto Jacobo Gutierrez,1966-10-16,83,Mexico,
+1552838,/coach/1552838/vitor-fernando-de-carvalho-campelos/,V. de Carvalho Campelos,Vítor Fernando de Carvalho Campelos,1975-05-11,38,Portugal,
+1552902,/coach/1552902/roberto-cevoli/,R. Cevoli,Roberto Cevoli,1968-12-29,27,Italy,
+1552921,/coach/1552921/micael-martins-sequeira/,M. Martins Sequeira,Micael Martins Sequeira,1973-07-06,38,Portugal,
+1552966,/coach/1552966/jaroslaw-skrobacz/,J. Skrobacz,Jarosław Skrobacz,1967-08-11,37,Poland,
+1553030,/coach/1553030/cristiano-lucarelli/,C. Lucarelli,Cristiano Lucarelli,1975-10-04,27,Italy,
+1553200,/coach/1553200/andrea-sottil/,A. Sottil,Andrea Sottil,1974-01-04,27,Italy,
+1553202,/coach/1553202/attilio-tesser/,A. Tesser,Attilio Tesser,1958-06-10,27,Italy,
+1553203,/coach/1553203/massimiliano-alvini/,M. Alvini,Massimiliano Alvini,,27,Italy,https://cdn.sportmonks.com/images//soccer/coaches/19/1553203.png
+1553229,/coach/1553229/pedro-morilla-pineda/,P. Morilla Pineda,Pedro Morilla Pineda,1972-10-31,45,Spain,
+1553235,/coach/1553235/luis-carlos-batalha-freire/,L. Batalha Freire,Luís Carlos Batalha Freire,1995-11-03,38,Portugal,
+1553285,/coach/1553285/andreas-tegstrom/,A. Tegström,Andreas Tegström,,46,Sweden,
+1553294,/coach/1553294/daniel-backstrom/,D. Bäckström,Daniel Bäckström,,46,Sweden,
+1553322,/coach/1553322/nicolo-napoli/,N. Napoli,Nicolò Napoli,1962-02-07,27,Italy,
+1553336,/coach/1553336/gabriel-esteban-caballero-schiker/,G. Caballero Schiker,Gabriel Esteban Caballero Schiker,1971-02-05,83,Mexico,
+1553351,/coach/1553351/filipe-manuel-nunes-candido/,F. Nunes Cândido,Filipe Manuel Nunes Cândido,1979-09-28,38,Portugal,
+1553390,/coach/1553390/rustem-khuzin/,R. Khuzin,Rustem Khuzin,1972-01-30,40,Russia,https://cdn.sportmonks.com/images/soccer/players/14/1553390.png
+1553411,/coach/1553411/igor-osinkin/,I. Osinkin,Igor Osinkin,1965-06-04,40,Russia,
+1553570,/coach/1553570/jose-maria-bianco/,J. Bianco,José María Bianco,,52,Argentina,
+1553624,/coach/1553624/alvaro-hernandez-uribe/,Á. Hernández Uribe,Álvaro Hernández Uribe,1973-03-22,56,Colombia,
+1553640,/coach/1553640/enrique-lopez-zarza/,E. López Zarza,Enrique López Zarza,1957-10-25,83,Mexico,
+1565626,/coach/1565626/wei-hao/,W. Hao,Wei Hao,1976-12-27,155,China PR,
+1677031,/coach/1677031/regis-brouard/,R. Brouard,Régis Brouard,1967-01-17,18,France,https://cdn.sportmonks.com/images/soccer/players/7/1677031.png
+1846740,/coach/1846740/paolo-tramezzani/,P. Tramezzani,Paolo Tramezzani,1970-07-30,27,Italy,
+1846934,/coach/1846934/milan-ristic/,M. Ristić,Milan Ristić,,51,Serbia,
+1854915,/coach/1854915/gerhard-struber/,G. Struber,Gerhard Struber,1977-01-24,4,Austria,https://cdn.sportmonks.com/images//soccer/coaches/3/1854915.png
+1854949,/coach/1854949/guillermo-abascal-perez/,G. Abascal Perez,Guillermo Abascal Perez,1989-04-13,45,Spain,
+1854951,/coach/1854951/eduardo-fentanes-orozco/,E. Fentanes Orozco,Eduardo Fentanes Orozco,1977-07-09,83,Mexico,
+1872679,/coach/1872679/alberto-colombo/,A. Colombo,Alberto Colombo,1974-02-24,27,Italy,
+1872757,/coach/1872757/luiz-carlos-cirne-lima-de-lorenzi/,L. Cirne Lima de Lorenzi,Luiz Carlos Cirne Lima de Lorenzi,1972-08-11,54,Brazil,
+1872907,/coach/1872907/ivo-ricardo-abreu-vieira/,I. Abreu Vieira,Ivo Ricardo Abreu Vieira,1976-01-10,38,Portugal,
+1873090,/coach/1873090/salvatore-iacolino/,S. Iacolino,Salvatore Iacolino,,27,Italy,
+2158189,/coach/2158189/philippe-clement/,P. Clement,Philippe Clement,1974-03-22,7,Belgium,https://cdn.sportmonks.com/images/soccer/players/13/2158189.png
+2158433,/coach/2158433/laszlo-boloni/,L. Bölöni,László Bölöni,1953-03-11,39,Romania,
+2158474,/coach/2158474/mihai-teja/,M. Teja,Mihai Teja,1978-09-22,39,Romania,
+2178947,/coach/2178947/christian-preusser/,C. Preußer,Christian Preußer,1984-01-23,21,Germany,
+2206526,/coach/2206526/christian-titz/,C. Titz,Christian Titz,1971-04-01,21,Germany,https://cdn.sportmonks.com/images/soccer/players/30/2206526.png
+2510291,/coach/2510291/joannes-gerardus-adrianus-lammers/,J. Lammers,Joannes Gerardus Adrianus Lammers,1963-12-11,34,Netherlands,
+2510462,/coach/2510462/mathieu-chabert/,M. Chabert,Mathieu Chabert,,18,France,
+2510731,/coach/2510731/artur-skowronek/,A. Skowronek,Artur Skowronek,1982-05-22,37,Poland,
+2511092,/coach/2511092/abel-fernando-moreira-ferreira/,A. Moreira Ferreira,Abel Fernando Moreira Ferreira,1978-12-22,38,Portugal,
+2511114,/coach/2511114/giorgios-donis/,G. Donis,Giorgios Donis,1969-10-29,22,Greece,https://cdn.sportmonks.com/images/soccer/players/10/2511114.png
+2511270,/coach/2511270/julian-calero-fernandez/,J. Calero Fernández,Julián Calero Fernández,1970-10-26,45,Spain,
+2875993,/coach/2875993/john-sebastian-armijo/,J. Armijo,John Sebastián Armijo,,55,Chile,
+2876007,/coach/2876007/gustavo-diaz-dominguez/,G. Díaz Domínguez,Gustavo Díaz Domínguez,1974-11-07,60,Uruguay,
+3169802,/coach/3169802/dariusz-zuraw/,D. Zuraw,Dariusz Zuraw,1972-11-14,37,Poland,
+3181403,/coach/3181403/vladimir-fedotov/,V. Fedotov,Vladimir Fedotov,1966-08-12,40,Russia,
+3187813,/coach/3187813/luka-elsner/,L. Elsner,Luka Elsner,1982-08-02,44,Slovenia,
+3219729,/coach/3219729/jorge-romero-saez/,J. Romero Sáez,Jorge Romero Sáez,,45,Spain,
+3509984,/coach/3509984/marco-zaffaroni/,M. Zaffaroni,Marco Zaffaroni,1969-01-20,27,Italy,
+3526169,/coach/3526169/joao-alexandre-oliveira-nunes-henriques/,J. Oliveira Nunes Henriques,João Alexandre Oliveira Nunes Henriques,1972-10-31,38,Portugal,
+3526244,/coach/3526244/alberto-miguel-gamero-morillo/,A. Gamero Morillo,Alberto Miguel Gamero Morillo,1964-02-03,56,Colombia,
+3533861,/coach/3533861/wouter-vrancken/,W. Vrancken,Wouter Vrancken,1979-02-03,7,Belgium,
+3568847,/coach/3568847/ilhan-palut/,İ. Palut,İlhan Palut,1976-11-12,48,Turkey,
+3618158,/coach/3618158/marcelo-martelotte/,M. Martelotte,Marcelo Martelotte,1968-12-18,54,Brazil,
+3861734,/coach/3861734/thomas-reis/,T. Reis,Thomas Reis,1973-10-04,21,Germany,
+3862153,/coach/3862153/markus-von-ahlen/,M. von Ahlen,Markus von Ahlen,1971-01-01,21,Germany,
+3876656,/coach/3876656/ertugrul-secme/,E. Seçme,Ertuğrul Seçme,1965-11-07,48,Turkey,
+3899858,/coach/3899858/oleksandr-petrakov/,O. Petrakov,Oleksandr Petrakov,1957-08-06,49,Ukraine,https://cdn.sportmonks.com/images/soccer/players/18/3899858.png
+4187834,/coach/4187834/marinus-dijkhuizen/,M. Dijkhuizen,Marinus Dijkhuizen,1972-01-04,34,Netherlands,
+4243191,/coach/4243191/mustafa-ati-goksu/,M. Göksu,Mustafa Ati Göksu,1945-09-10,48,Turkey,
+4592317,/coach/4592317/abdelaziz-bouhazama/,A. Bouhazama,Abdelaziz Bouhazama,1969-01-04,18,France,
+4916358,/coach/4916358/jingui-wu/,J. Wu,Jingui Wu,1961-01-10,155,China PR,
+4977578,/coach/4977578/waldemar-fornalik/,W. Fornalik,Waldemar Fornalik,1963-04-11,37,Poland,
+5283402,/coach/5283402/lars-vind/,L. Vind,Lars Vind,1976-09-22,13,Denmark,
+5332015,/coach/5332015/steve-cotterill/,S. Cotterill,Steve Cotterill,1964-07-20,14,England,
+5332165,/coach/5332165/luca-dangelo/,L. D'Angelo,Luca D'Angelo,,27,Italy,
+5332210,/coach/5332210/robert-dante-siboldi-badiola/,R. Siboldi Badiola,Robert Dante Siboldi Badiola,1965-09-24,60,Uruguay,
+5666333,/coach/5666333/gustavo-huerta-araya/,G. Huerta Araya,Gustavo Huerta Araya,1957-10-15,55,Chile,
+5666628,/coach/5666628/davide-dionigi/,D. Dionigi,Davide Dionigi,1974-01-10,27,Italy,
+5669971,/coach/5669971/mislav-karoglan/,M. Karoglan,Mislav Karoglan,1982-04-14,10,Croatia,
+5961878,/coach/5961878/william-still/,W. Still,William Still,1992-10-14,7,Belgium,
+5967966,/coach/5967966/miguel-alvarez-jurado/,M. Álvarez Jurado,Miguel Álvarez Jurado,1958-03-22,45,Spain,
+6642513,/coach/6642513/sergio-angulo-bolanos/,S. Angulo Bolaños,Sergio Angulo Bolaños,1960-09-14,56,Colombia,
+6648081,/coach/6648081/armando-evangelista-macedo-freitas/,A. Macedo Freitas,Armando Evangelista Macedo Freitas,1973-11-03,38,Portugal,
+6971069,/coach/6971069/malky-mackay/,M. Mackay,Malky Mackay,1972-02-19,42,Scotland,
+6971228,/coach/6971228/armando-goncalves-teixeira/,Petit,Armando Gonçalves Teixeira,1976-09-25,38,Portugal,
+6972209,/coach/6972209/jostein-grindhaug/,J. Grindhaug,Jostein Grindhaug,1973-02-20,36,Norway,https://cdn.sportmonks.com/images/soccer/players/17/6972209.png
+6972715,/coach/6972715/cihat-arslan/,C. Arslan,Cihat Arslan,1970-02-09,48,Turkey,
+6972914,/coach/6972914/pablo-javier-quatrocchi/,P. Quatrocchi,Pablo Javier Quatrocchi,1974-01-19,52,Argentina,
+6983785,/coach/6983785/phil-parkinson/,P. Parkinson,Phil Parkinson,1967-12-01,14,England,
+6983788,/coach/6983788/steve-clarke/,S. Clarke,Steve Clarke,1963-08-29,42,Scotland,
+6983853,/coach/6983853/horacio-matuszyczk/,H. Matuszyczk,Horacio Matuszyczk,1961-11-29,52,Argentina,
+7330518,/coach/7330518/francisco-javier-garcia-pimienta/,F. García Pimienta,Francisco Javier García Pimienta,1974-08-03,45,Spain,
+7346264,/coach/7346264/josep-gombau-balague/,J. Gombau Balague,Josep Gombau Balague,1976-06-05,45,Spain,https://cdn.sportmonks.com/images/soccer/players/24/7346264.png
+7689026,/coach/7689026/brian-clarhaut/,B. Clarhaut,Brian Clarhaut,,95,United States,
+7689782,/coach/7689782/pool-geovanny-gavilanez-solis/,P. Gavilánez Solís,Pool Geovanny Gavilánez Solís,,57,Ecuador,
+7690084,/coach/7690084/sergio-gomez/,S. Gómez,Sergio Gómez,,52,Argentina,
+7693712,/coach/7693712/recep-ucar/,R. Uçar,Recep Uçar,1975-09-22,48,Turkey,
+7713957,/coach/7713957/glen-de-boeck/,G. De Boeck,Glen De Boeck,1971-08-22,7,Belgium,https://cdn.sportmonks.com/images/soccer/players/5/7713957.png
+7714354,/coach/7714354/mladen-krstajic/,M. Krstajić,Mladen Krstajić,1974-03-04,51,Serbia,
+7741798,/coach/7741798/odair-hellmann/,O. Hellmann,Odair Hellmann,1977-01-22,54,Brazil,
+8416512,/coach/8416512/pedro-atalicio-dechat/,P. Dechat,Pedro Atalicio Dechat,1959-09-02,52,Argentina,
+9605704,/coach/9605704/pedro-alcides-sarabia-achucarro/,P. Sarabia Achucarro,Pedro Alcídes Sarabia Achucarro,1975-07-05,58,Paraguay,
+9938631,/coach/9938631/vitor-manuel-de-oliveira-lopes-pereira/,V. de Oliveira Lopes Pereira,Vítor Manuel de Oliveira Lopes Pereira,1968-07-26,38,Portugal,https://cdn.sportmonks.com/images/soccer/players/7/9938631.png
+9964181,/coach/9964181/david-colpaert/,D. Colpaert,David Colpaert,1970-01-23,7,Belgium,
+10264954,/coach/10264954/valeriy-karpin/,V. Karpin,Valeriy Karpin,1969-02-02,40,Russia,
+10269848,/coach/10269848/aurelio-andreazzoli/,A. Andreazzoli,Aurelio Andreazzoli,1953-11-05,27,Italy,
+10275528,/coach/10275528/jamel-belhedi/,J. Belhedi,Jamel Belhedi,,145,Tunisia,
+10293491,/coach/10293491/eder-sarabia-armesto/,E. Sarabia Armesto,Eder Sarabia Armesto,,45,Spain,
+10293509,/coach/10293509/diego-omar-dabove/,D. Dabove,Diego Omar Dabove,1973-01-18,52,Argentina,
+10626576,/coach/10626576/bjarne-berntsen/,B. Berntsen,Bjarne Berntsen,1956-12-21,36,Norway,
+10626699,/coach/10626699/stefan-billborn/,S. Billborn,Stefan Billborn,1972-11-15,46,Sweden,https://cdn.sportmonks.com/images/soccer/players/11/10626699.png
+10948461,/coach/10948461/miguel-angel-zahzu/,M. Zahzú,Miguel Ángel Zahzú,,52,Argentina,
+10990603,/coach/10990603/bairm-mukhtari/,B. Mukhtari,Bairm Mukhtari,,145,Tunisia,
+11311416,/coach/11311416/ivan-jovanovic/,I. Jovanović,Ivan Jovanović,1962-07-08,51,Serbia,https://cdn.sportmonks.com/images/soccer/players/24/11311416.png
+12016966,/coach/12016966/nasir-belci/,N. Belci,Nasır Belci,1955-12-01,48,Turkey,
+12066298,/coach/12066298/robin-dutt/,R. Dutt,Robin Dutt,1965-01-24,21,Germany,https://cdn.sportmonks.com/images/soccer/players/26/12066298.png
+12393693,/coach/12393693/david-mackey/,D. Mackey,David Mackey,1960-06-04,25,Republic of Ireland,
+12562146,/coach/12562146/gary-smith/,G. Smith,Gary Smith,1968-12-03,14,England,https://cdn.sportmonks.com/images//soccer/coaches/2/12562146.png
+12830275,/coach/12830275/shigetoshi-hasebe/,S. Hasebe,Shigetoshi Hasebe,,163,Japan,
+12830699,/coach/12830699/radoslav-latal/,R. Látal,Radoslav Látal,1970-01-06,12,Czech Republic,
+13186192,/coach/13186192/jin-seop-park/,J. Park,Jin-Seop Park,1977-03-11,167,Korea Republic,
+13224996,/coach/13224996/sergi-barjuan-i-esclusa/,S. Barjuán i Esclusa,Sergi Barjuán i Esclusa,1971-12-28,45,Spain,
+13225192,/coach/13225192/yang-chen/,Y. Chen,Yang Chen,1977-01-23,155,China PR,https://cdn.sportmonks.com/images/soccer/players/8/13225192.png
+13633409,/coach/13633409/andre-soares-jardine/,A. Soares Jardine,André Soares Jardine,1979-09-08,54,Brazil,
+13980935,/coach/13980935/ivan-prelec/,I. Prelec,Ivan Prelec,,10,Croatia,https://cdn.sportmonks.com/images/soccer/players/7/13980935.png
+13991808,/coach/13991808/jordi-vinyals-martori/,J. Vinyals Martori,Jordi Vinyals Martori,1963-11-24,45,Spain,
+14328880,/coach/14328880/john-herdman/,J. Herdman,John Herdman,1975-07-19,14,England,https://cdn.sportmonks.com/images/soccer/players/16/14328880.png
+14328883,/coach/14328883/gustavo-eliseo-morinigo-vazquez/,G. Morínigo Vázquez,Gustavo Eliseo Morínigo Vázquez,1977-01-23,58,Paraguay,
+15062004,/coach/15062004/dietmar-didi-kuhbauer/,D. Kühbauer,Dietmar Didi Kühbauer,1971-04-04,4,Austria,https://cdn.sportmonks.com/images/soccer/players/20/15062004.png
+15084021,/coach/15084021/didier-tholot/,D. Tholot,Didier Tholot,1964-04-02,18,France,https://cdn.sportmonks.com/images/soccer/players/21/15084021.png
+16102470,/coach/16102470/bo-wang/,B. Wang,Bo Wang,1970-04-03,155,China PR,
+16111977,/coach/16111977/luis-garcia-plaza/,L. García Plaza,Luis García Plaza,1972-12-01,45,Spain,https://cdn.sportmonks.com/images/soccer/players/9/16111977.png
+16112171,/coach/16112171/liviu-ciobotariu/,L. Ciobotariu,Liviu Ciobotariu,1971-03-26,39,Romania,https://cdn.sportmonks.com/images/soccer/players/11/16112171.png
+16488543,/coach/16488543/erwin-sanchez-freking/,E. Sánchez Freking,Erwin Sánchez Freking,1969-10-19,53,Bolivia,
+16827150,/coach/16827150/ivan-javorcic/,I. Javorcic,Ivan Javorcic,1979-01-24,10,Croatia,
+16845924,/coach/16845924/jens-berthel-askou/,J. Askou,Jens Berthel Askou,1982-08-19,13,Denmark,
+17159485,/coach/17159485/steve-corica/,S. Corica,Steve Corica,1973-03-24,195,Australia,
+17281534,/coach/17281534/kim-hellberg/,K. Hellberg,Kim Hellberg,,46,Sweden,
+17867632,/coach/17867632/paul-hurst/,P. Hurst,Paul Hurst,1974-09-25,14,England,
+17876082,/coach/17876082/henrik-pedersen/,H. Pedersen,Henrik Pedersen,1978-01-02,13,Denmark,
+17949095,/coach/17949095/alfredo-vera/,A. Vera,Alfredo Vera,,58,Paraguay,
+18218840,/coach/18218840/kenta-kawai/,K. Kawai,Kenta Kawai,1981-06-07,163,Japan,
+18228014,/coach/18228014/bulent-korkmaz/,B. Korkmaz,Bülent Korkmaz,1968-11-24,48,Turkey,
+18559399,/coach/18559399/damian-dario-munoz-galaz/,D. Munoz Galaz,Damian Dario Munoz Galaz,1984-01-13,55,Chile,
+18567633,/coach/18567633/kjetil-andre-rekdal/,K. Rekdal,Kjetil André Rekdal,1968-11-06,36,Norway,https://cdn.sportmonks.com/images/soccer/players/17/18567633.png
+18922365,/coach/18922365/tim-flowers/,T. Flowers,Tim Flowers,1967-02-03,14,England,
+18932187,/coach/18932187/marti-cifuentes-corvillo/,M. Cifuentes Corvillo,Martí Cifuentes Corvillo,,45,Spain,
+18939668,/coach/18939668/hernan-pena/,H. Peña,Hernán Peña,1969-10-18,55,Chile,
+19256146,/coach/19256146/david-martindale/,D. Martindale,David Martindale,1974-07-13,42,Scotland,
+19264859,/coach/19264859/martin-alejandro-cardetti/,M. Cardetti,Martín Alejandro Cardetti,1975-10-22,52,Argentina,
+19282253,/coach/19282253/frank-wormuth/,F. Wormuth,Frank Wormuth,1960-09-13,21,Germany,
+19289999,/coach/19289999/michele-santoni/,M. Santoni,Michele Santoni,1980-01-01,34,Netherlands,
+19960383,/coach/19960383/ralf-rangnick/,R. Rangnick,Ralf Rangnick,1958-06-29,21,Germany,https://cdn.sportmonks.com/images/soccer/players/31/19960383.png
+19960388,/coach/19960388/andoni-iraola-sagarna/,A. Iraola,Andoni Iraola Sagarna,1982-06-22,45,Spain,https://cdn.sportmonks.com/images//soccer/coaches/4/19960388.png
+19979675,/coach/19979675/holger-seitz/,H. Seitz,Holger Seitz,1974-10-09,21,Germany,
+19980296,/coach/19980296/alain-geiger/,A. Geiger,Alain Geiger,1960-11-05,47,Switzerland,
+19980368,/coach/19980368/mikael-bengtsson/,M. Bengtsson,Mikael Bengtsson,,46,Sweden,
+19996749,/coach/19996749/michal-bilek/,M. Bílek,Michal Bílek,1965-04-13,12,Czech Republic,https://cdn.sportmonks.com/images/soccer/players/13/19996749.png
+20315948,/coach/20315948/kamil-socha/,K. Socha,Kamil Socha,1971-02-01,37,Poland,
+20326070,/coach/20326070/robin-fraser/,R. Fraser,Robin Fraser,1966-12-17,95,United States,https://cdn.sportmonks.com/images//soccer/coaches/22/20326070.png
+20691920,/coach/20691920/daniel-berlinski/,D. Berlinski,Daniel Berlinski,1986-02-12,21,Germany,
+20693356,/coach/20693356/bartosch-gaul/,B. Gaul,Bartosch Gaul,1987-11-30,21,Germany,
+20693361,/coach/20693361/patrick-glockner/,P. Glöckner,Patrick Glöckner,1976-11-18,21,Germany,
+20693394,/coach/20693394/andre-meyer/,A. Meyer,André Meyer,1984-06-05,21,Germany,
+20693423,/coach/20693423/ole-werner/,O. Werner,Ole Werner,,21,Germany,
+20693917,/coach/20693917/fernando-manuel-de-jesus-santos/,F. de Jesus Santos,Fernando Manuel de Jesus Santos,1973-03-17,38,Portugal,
+20694532,/coach/20694532/paulo-sergio-bento-brito/,P. Bento Brito,Paulo Sérgio Bento Brito,1968-02-19,38,Portugal,
+20708358,/coach/20708358/baldomero-hermoso-herrera/,B. Hermoso Herrera,Baldomero Hermoso Herrera,1975-03-15,45,Spain,
+21054920,/coach/21054920/joao-batista-donizete-dressler-burse/,J. Batista Donizete Dressler Burse,João Batista Donizete Dressler Burse,1982-06-10,54,Brazil,
+21072678,/coach/21072678/hernan-perez-cuesta/,H. Pérez Cuesta,Hernán Pérez Cuesta,1981-10-02,45,Spain,
+21404414,/coach/21404414/mario-daniel-saralegui-iriarte/,M. Saralegui Iriarte,Mario Daniel Saralegui Iriarte,1959-04-24,60,Uruguay,https://cdn.sportmonks.com/images/soccer/players/30/21404414.png
+22126528,/coach/22126528/alejandro-martin-capuccio-diaz/,A. Capuccio Díaz,Alejandro Martín Capuccio Díaz,1976-02-07,60,Uruguay,
+22158402,/coach/22158402/joseph-oosting/,J. Oosting,Joseph Oosting,1973-01-29,34,Netherlands,
+22158887,/coach/22158887/alberto-illanes/,A. Illanes,Alberto Illanes,,53,Bolivia,
+22536116,/coach/22536116/byung-geun-lee/,B. Lee,Byung-Geun Lee,1973-04-28,167,Korea Republic,https://cdn.sportmonks.com/images/soccer/players/20/22536116.png
+22859431,/coach/22859431/german-crespo-sanchez/,G. Crespo Sánchez,Germán Crespo Sánchez,1975-11-19,45,Spain,
+22877956,/coach/22877956/gabriele-cioffi/,G. Cioffi,Gabriele Cioffi,1975-09-30,27,Italy,
+23269910,/coach/23269910/constantin-schumacher/,C. Schumacher,Constantin Schumacher,1976-05-08,39,Romania,
+23302395,/coach/23302395/thomas-veart/,T. Veart,Thomas Veart,,195,Australia,
+23386218,/coach/23386218/alvaro-adriano-teixeira-pacheco/,Á. Pacheco,Álvaro Adriano Teixeira Pacheco,1971-06-25,38,Portugal,https://cdn.sportmonks.com/images/soccer/players/10/23386218.png
+23637730,/coach/23637730/luis-marin-camacho/,L. Marín Camacho,Luis Marín Camacho,1977-02-05,53,Bolivia,
+23738838,/coach/23738838/marcin-prasol/,M. Prasoł,Marcin Prasoł,1980-10-12,37,Poland,
+24065134,/coach/24065134/erik-hamren/,E. Hamrén,Erik Hamrén,1957-06-27,46,Sweden,https://cdn.sportmonks.com/images/soccer/players/14/24065134.png
+24427744,/coach/24427744/thomas-frank/,T. Frank,Thomas Frank,1973-10-09,13,Denmark,https://cdn.sportmonks.com/images/soccer/players/0/24427744.png
+24445026,/coach/24445026/pericles-raimundo-oliveira-chamusca/,P. Oliveira Chamusca,Péricles Raimundo Oliveira Chamusca,1965-09-29,54,Brazil,
+24818817,/coach/24818817/filipe-andre-paula-da-rocha/,F. Paula da Rocha,Filipe André Paula da Rocha,1972-05-19,38,Portugal,
+25187743,/coach/25187743/liam-manning/,L. Manning,Liam Manning,1985-08-20,14,England,
+25217592,/coach/25217592/fernando-maximiliano-diaz-seguel/,F. Díaz Seguel,Fernando Maximiliano Díaz Seguel,1961-12-27,55,Chile,
+25567014,/coach/25567014/cristiano-bergodi/,C. Bergodi,Cristiano Bergodi,1964-10-14,27,Italy,
+25583713,/coach/25583713/hakan-keles/,H. Keleş,Hakan Keleş,1972-01-08,48,Turkey,
+25931173,/coach/25931173/francisco-meneghini/,F. Meneghini,Francisco Meneghini,,52,Argentina,
+26328630,/coach/26328630/miron-muslic/,M. Muslić,Miron Muslić,1982-09-14,4,Austria,
+26669978,/coach/26669978/roberto-patzold/,R. Pätzold,Roberto Pätzold,1980-07-17,21,Germany,
+27048405,/coach/27048405/mark-bonner/,M. Bonner,Mark Bonner,,14,England,
+27057544,/coach/27057544/alexis-enrique-garcia-vega/,A. García Vega,Alexis Enrique García Vega,1960-07-21,56,Colombia,
+27440829,/coach/27440829/jacob-friis/,J. Friis,Jacob Friis,1976-12-11,13,Denmark,https://cdn.sportmonks.com/images/soccer/players/29/27440829.png
+27462686,/coach/27462686/oscar-pedro-cano-moreno/,Ó. Cano Moreno,Óscar Pedro Cano Moreno,1972-11-07,45,Spain,
+27831764,/coach/27831764/marco-balbul/,M. Balbul,Marco Balbul,1967-07-13,26,Israel,
+28184231,/coach/28184231/peter-wild/,P. Wild,Peter Wild,,14,England,
+29303607,/coach/29303607/renato-manuel-alves-paiva/,R. Alves Paiva,Renato Manuel Alves Paiva,1970-03-22,38,Portugal,
+29336919,/coach/29336919/jorge-remigio-pautasso/,J. Pautasso,Jorge Remigio Pautasso,1962-02-03,52,Argentina,
+29720314,/coach/29720314/jose-riveiro/,J. Riveiro,Jose Riveiro,1975-09-15,45,Spain,
+29720398,/coach/29720398/danny-searle/,D. Searle,Danny Searle,,14,England,
+30482247,/coach/30482247/ugur-balcioglu/,U. Balcıoğlu,Uğur Balcıoğlu,1972-02-01,48,Turkey,https://cdn.sportmonks.com/images/soccer/players/7/30482247.png
+30850931,/coach/30850931/declan-devine/,D. Devine,Declan Devine,1973-09-15,35,Northern Ireland,
+31616447,/coach/31616447/manuel-alfredo-moquera-bastida/,M. Moquera Bastida,Manuel Alfredo Moquera Bastida,1968-08-10,45,Spain,https://cdn.sportmonks.com/images/soccer/players/31/31616447.png
+32012784,/coach/32012784/onder-karaveli/,Ö. Karaveli,Önder Karaveli,1974-03-16,48,Turkey,
+32396043,/coach/32396043/erling-moe/,E. Moe,Erling Moe,,36,Norway,https://cdn.sportmonks.com/images/soccer/players/11/32396043.png
+32405547,/coach/32405547/diego-martinez-ruiz/,D. Martínez Ruiz,Diego Martínez Ruiz,1984-02-04,45,Spain,https://cdn.sportmonks.com/images/soccer/players/11/32405547.png
+32431130,/coach/32431130/nick-cushing/,N. Cushing,Nick Cushing,,14,England,
+32551353,/coach/32551353/youssef-anbar/,Y. Anbar,Youssef Anbar,,183,Saudi Arabia,
+33587121,/coach/33587121/sindre-tjelmeland/,S. Tjelmeland,Sindre Tjelmeland,1989-09-13,36,Norway,
+33980182,/coach/33980182/sergey-zhukov/,S. Zhukov,Sergey Zhukov,1967-05-08,40,Russia,https://cdn.sportmonks.com/images/soccer/players/22/33980182.png
+34367117,/coach/34367117/eduardo-de-souza-barroca/,E. de Souza Barroca,Eduardo de Souza Barroca,1982-04-22,54,Brazil,
+34455769,/coach/34455769/matt-gray/,M. Gray,Matt Gray,1981-11-02,14,England,https://cdn.sportmonks.com/images/soccer/players/25/34455769.png
+34492065,/coach/34492065/ruben-dario-insua/,R. Insúa,Rubén Darío Insúa,1961-04-17,52,Argentina,
+34874032,/coach/34874032/jose-jeunechamps/,J. Jeunechamps,José Jeunechamps,1967-05-02,7,Belgium,https://cdn.sportmonks.com/images/soccer/players/16/34874032.png
+35279764,/coach/35279764/dominik-thalhammer/,D. Thalhammer,Dominik Thalhammer,1970-10-02,4,Austria,
+35305804,/coach/35305804/flemming-pedersen/,F. Pedersen,Flemming Pedersen,1947-09-02,13,Denmark,
+36084458,/coach/36084458/alejandro-restrepo-mazo/,A. Restrepo Mazo,Alejandro Restrepo Mazo,1982-01-30,56,Colombia,
+36884109,/coach/36884109/svetozar-sapuric/,S. Šapurić,Svetozar Šapurić,1960-04-28,51,Serbia,
+37250724,/coach/37250724/steve-cooper/,S. Cooper,Steve Cooper,1979-12-10,50,Wales,https://cdn.sportmonks.com/images//soccer/coaches/4/37250724.png
+37252142,/coach/37252142/pedro-enrique-sarmiento-solis/,P. Sarmiento Solís,Pedro Enrique Sarmiento Solís,1956-10-26,56,Colombia,
+37253370,/coach/37253370/franz-ponweiser/,F. Ponweiser,Franz Ponweiser,1975-09-15,4,Austria,
+37253380,/coach/37253380/mao-chen/,M. Chen,Mao Chen,,155,China PR,
+37255825,/coach/37255825/sjors-ultee/,S. Ultee,Sjors Ultee,1987-05-23,34,Netherlands,
+37257614,/coach/37257614/wim-jonk/,W. Jonk,Wim Jonk,1966-10-12,34,Netherlands,
+37257773,/coach/37257773/joao-pedro-borges-de-sousa/,J. Borges de Sousa,João Pedro Borges de Sousa,1971-08-04,38,Portugal,
+37260565,/coach/37260565/eduardo-docampo/,E. Docampo,Eduardo Docampo,1974-05-26,45,Spain,
+37262404,/coach/37262404/janusz-niedzwiedz/,J. Niedźwiedź,Janusz Niedźwiedź,1982-01-23,37,Poland,
+37262790,/coach/37262790/alberto-aguila-lalana/,A. Aguilà Lalana,Alberto Aguilà Lalana,,45,Spain,
+37266144,/coach/37266144/daniel-poyatos-algaba/,D. Algaba,Daniel Poyatos Algaba,,45,Spain,
+37287279,/coach/37287279/kresimir-rezic/,K. Režić,Krešimir Režić,1981-10-13,10,Croatia,
+37288290,/coach/37288290/rhulani-mokwena/,R. Mokwena,Rhulani Mokwena,,140,South Africa,
+37297706,/coach/37297706/oscar-garcia-rodriguez/,O. Garcia Rodriguez,Oscar Garcia Rodriguez,,45,Spain,
+37315628,/coach/37315628/lucas-palavro-zanella/,L. Palavro Zanella,Lucas Palavro Zanella,,54,Brazil,
+37324873,/coach/37324873/henry-antonio-melendez-sanchez/,H. Meléndez Sanchez,Henry Antonio Meléndez Sanchez,1984-07-02,61,Venezuela,
+37326181,/coach/37326181/rodolfo-de-paoli/,R. De Paoli,Rodolfo De Paoli,1978-10-26,52,Argentina,
+37331562,/coach/37331562/xueyu-liu/,X. Liu,Xueyu Liu,1962-08-03,155,China PR,
+37331744,/coach/37331744/gerald-baticle/,G. Baticle,Gérald Baticle,1969-09-10,18,France,https://cdn.sportmonks.com/images//soccer/coaches/0/37331744.png
+37336557,/coach/37336557/neil-wood/,N. Wood,Neil Wood,1983-01-04,14,England,
+37336957,/coach/37336957/frank-kramer/,F. Kramer,Frank Kramer,1972-05-03,21,Germany,https://cdn.sportmonks.com/images//soccer/coaches/29/37336957.png
+37351217,/coach/37351217/luca-gotti/,L. Gotti,Luca Gotti,1967-09-13,27,Italy,
+37352367,/coach/37352367/hans-dieter-flick/,H. Flick,Hans-Dieter Flick,1965-02-24,21,Germany,
+37354684,/coach/37354684/paul-simpson/,P. Simpson,Paul Simpson,1966-07-26,14,England,
+37354876,/coach/37354876/albert-capellas-herms/,A. Herms,Albert Capellas Herms,1967-10-01,45,Spain,
+37357854,/coach/37357854/peter-wennberg/,P. Wennberg,Peter Wennberg,1975-12-04,46,Sweden,
+37384310,/coach/37384310/juan-jose-maqueda/,J. Maqueda,Juan José Maqueda,1969-01-23,45,Spain,
+37386304,/coach/37386304/ben-garner/,B. Garner,Ben Garner,1980-05-19,14,England,
+37428016,/coach/37428016/necdet-emre-ozbayer/,N. Özbayer,Necdet Emre Özbayer,1976-10-15,48,Turkey,
+37429198,/coach/37429198/albert-puig-ortoneda/,Albert Puig,Albert Puig Ortoneda,1968-04-15,45,Spain,
+37430188,/coach/37430188/pal-arne-johansen/,P. Johansen,Pal Arne Johansen,1977-02-16,36,Norway,
+37430442,/coach/37430442/kenny-bundy/,K. Bundy,Kenny Bundy,1981-03-09,95,United States,
+37430718,/coach/37430718/jon-brady/,J. Brady,Jon Brady,1975-01-14,195,Australia,
+37438919,/coach/37438919/laurent-blanc/,L. Blanc,Laurent Blanc,1965-11-19,18,France,
+37438949,/coach/37438949/paul-ince/,P. Ince,Paul Ince,1967-10-21,14,England,
+37444175,/coach/37444175/hans-jurgen-boysen/,H. Boysen,Hans-Jürgen Boysen,1957-05-30,21,Germany,
+37453069,/coach/37453069/richard-beale/,R. Beale,Richard Beale,,14,England,
+37476493,/coach/37476493/do-kyun-kim/,Kim Do-Kyun,Do-Kyun Kim,1977-01-13,167,Korea Republic,
+37522422,/coach/37522422/artur-jorge-torres-gomes-araujo-amorim/,Artur Jorge,Artur Jorge Torres Gomes Araújo Amorim,1972-01-01,38,Portugal,
+37522906,/coach/37522906/ricardo-cadena-martinez/,R. Cadena Martínez,Ricardo Cadena Martínez,1969-10-23,83,Mexico,
+37523018,/coach/37523018/goran-miscevic/,G. Miscevic,Goran Miscevic,,51,Serbia,
+37523072,/coach/37523072/louis-van-gaal/,L. van Gaal,Louis van Gaal,1951-08-08,34,Netherlands,
+37523318,/coach/37523318/ik-soo-ahn/,I. Ahn,Ik-Soo Ahn,1965-05-06,167,Korea Republic,
+37523462,/coach/37523462/gustavo-daniel-tognarelli/,G. Tognarelli,Gustavo Daniel Tognarelli,1960-09-17,52,Argentina,
+37523585,/coach/37523585/otto-addo/,O. Addo,Otto Addo,1975-06-09,21,Germany,
+37524040,/coach/37524040/freyr-alexandersson/,F. Alexandersson,Freyr Alexandersson,1982-11-18,24,Iceland,
+37524131,/coach/37524131/adem-caglayan/,A. Caglayan,Adem Caglayan,1981-11-19,48,Turkey,
+37524146,/coach/37524146/kieran-mckenna/,K. McKenna,Kieran McKenna,,14,England,
+37524256,/coach/37524256/mario-fernando-magalhaes-da-silva/,M. Magalhães,Mário Fernando Magalhães da Silva,1977-04-24,38,Portugal,
+37524364,/coach/37524364/hakon-wibe-lund/,H. Wibe-Lund,Håkon Wibe-Lund,1980-09-05,36,Norway,
+37524380,/coach/37524380/mifflin-bermudez-tucto/,M. Bermúdez Tucto,Mifflin Bermúdez Tucto,1968-02-04,59,Peru,
+37524407,/coach/37524407/des-buckingham/,D. Buckingham,Des Buckingham,,14,England,
+37524893,/coach/37524893/kees-van-wonderen/,K. van Wonderen,Kees van Wonderen,1969-01-04,34,Netherlands,
+37526382,/coach/37526382/anton-petrea/,A. Petrea,Anton Petrea,1975-03-09,39,Romania,
+37527066,/coach/37527066/andres-luciano-lillini/,A. Lillini,Andrés Luciano Lillini,1974-08-13,52,Argentina,
+37527821,/coach/37527821/weijian-yang/,W. Yang,Weijian Yang,1964-01-02,155,China PR,
+37528432,/coach/37528432/thomas-lagerlof/,T. Lagerlöf,Thomas Lagerlöf,1971-11-15,46,Sweden,
+37529254,/coach/37529254/dawid-szulczek/,D. Szulczek,Dawid Szulczek,1990-01-26,37,Poland,
+37529364,/coach/37529364/xiaorui-zhang/,X. Zhang,Xiaorui Zhang,1978-08-05,155,China PR,
+37529961,/coach/37529961/morten-eskesen/,M. Eskesen,Morten Eskesen,1968-01-24,13,Denmark,
+37530232,/coach/37530232/christian-heinle/,C. Heinle,Christian Heinle,1985-03-30,4,Austria,
+37533057,/coach/37533057/hui-xie/,H. Xie,Hui Xie,1975-02-14,155,China PR,
+37541656,/coach/37541656/antonio-jose-marreco-gouveia/,A. Marreco Gouveia,António José Marreco Gouveia,1987-07-25,38,Portugal,
+37542467,/coach/37542467/roberto-taurino/,R. Taurino,Roberto Taurino,,27,Italy,
+37542638,/coach/37542638/semih-keskin/,S. Keskin,Semih Keskin,1988-12-25,21,Germany,
+37543306,/coach/37543306/francisco-javier-pereira-mejia/,F. Pereira Mejía,Francisco Javier Pereira Mejía,1966-05-13,45,Spain,
+37545084,/coach/37545084/yousef-al-mannai/,Y. Al Mannai,Yousef Al Mannai,,145,Tunisia,
+37552521,/coach/37552521/juan-carlos-carcedo-mardones/,J. Carcedo Mardones,Juan Carlos Carcedo Mardones,1973-08-19,45,Spain,
+37552530,/coach/37552530/leam-richardson/,L. Richardson,Leam Richardson,1979-11-19,14,England,
+37553115,/coach/37553115/rui-vitor-da-silva-ferreira/,R. da Silva Ferreira,Rui Vítor da Silva Ferreira,1973-03-29,38,Portugal,
+37553735,/coach/37553735/nestor-gabriel-lorenzo/,N. Lorenzo,Néstor Gabriel Lorenzo,1966-02-28,52,Argentina,
+37553748,/coach/37553748/jose-villafuerte/,J. Villafuerte,José Villafuerte,1956-11-07,57,Ecuador,
+37553794,/coach/37553794/krzysztof-pawlak/,K. Pawlak,Krzysztof  Pawlak,1958-02-12,37,Poland,
+37553899,/coach/37553899/tahsin-tam/,T. Tam,Tahsin Tam,1969-09-15,48,Turkey,
+37553903,/coach/37553903/david-suarez-munoz/,D. Suárez Muñoz,David Suárez Muñoz,1986-12-10,56,Colombia,
+37553999,/coach/37553999/jose-garijo-nicolas/,J. Garijo Nicolás,José Garijo Nicolás,,45,Spain,
+37554017,/coach/37554017/andreas-patz/,A. Patz,Andreas Patz,1983-10-14,21,Germany,
+37556105,/coach/37556105/nelson-alfonso-florez-jimenez/,N. Flórez Jiménez,Nelson Alfonso Flórez Jiménez,1974-03-01,56,Colombia,
+37563973,/coach/37563973/wilfried-nancy/,W. Nancy,Wilfried Nancy,1977-04-09,18,France,https://cdn.sportmonks.com/images//soccer/coaches/5/37563973.png
+37563984,/coach/37563984/min-sung-lee/,M. Lee,Min-Sung Lee,1973-06-23,167,Korea Republic,
+37564013,/coach/37564013/jean-paul-van-gastel/,J. van Gastel,Jean-Paul van Gastel,1972-04-28,34,Netherlands,
+37566248,/coach/37566248/francesco-farioli/,F. Farioli,Francesco Farioli,1989-04-10,27,Italy,
+37566658,/coach/37566658/catalin-cristian-anghel/,C. Anghel,Cătălin Cristian Anghel,1974-10-04,39,Romania,
+37566900,/coach/37566900/genwei-yu/,G. Yu,Genwei Yu,1974-01-07,155,China PR,
+37566920,/coach/37566920/elias-jarol-rafael-emmons-cova/,E. Emmons Cova,Elías Jarol Rafael Emmons Cova,1981-12-11,61,Venezuela,
+37569634,/coach/37569634/ivan-almeida/,I. Almeida,Iván Almeida,1978-01-22,58,Paraguay,
+37569638,/coach/37569638/hiroshi-matsuda/,H. Matsuda,Hiroshi Matsuda,1960-11-05,163,Japan,
+37571867,/coach/37571867/morten-jensen/,M. Jensen,Morten Jensen,1981-03-09,36,Norway,
+37573825,/coach/37573825/antonio-jose-cardoso-de-oliveira/,A. Cardoso de Oliveira,António José Cardoso de Oliveira,1982-10-09,38,Portugal,
+37575018,/coach/37575018/edward-still/,E. Still,Edward Still,1990-12-30,7,Belgium,
+37575021,/coach/37575021/manfred-schmid/,M. Schmid,Manfred Schmid,1971-02-20,4,Austria,
+37575667,/coach/37575667/william-billy-dodds/,W. Dodds,William Billy Dodds,1969-02-05,42,Scotland,
+37575668,/coach/37575668/daniel-scherning/,D. Scherning,Daniel Scherning,1983-10-29,21,Germany,
+37576444,/coach/37576444/hugo-carlos-rodrigues-ganchinho-pereira/,H. Ganchinho Pereira,Hugo Carlos Rodrigues Ganchinho Pereira,1978-11-06,38,Portugal,
+37581419,/coach/37581419/lukas-pfeiffer/,L. Pfeiffer,Lukas  Pfeiffer,1991-01-16,21,Germany,
+37584222,/coach/37584222/duarte-nuno-figueira-correia/,D. Figueira Correia,Duarte Nuno Figueira Correia,1968-09-03,38,Portugal,
+37584223,/coach/37584223/osman-zeki-korkmaz/,O. Korkmaz,Osman Zeki Korkmaz,1982-05-02,48,Turkey,
+37584234,/coach/37584234/juan-david-nino-casteblanco/,J. Niño Casteblanco,Juan David Niño Casteblanco,1988-06-27,56,Colombia,
+37590075,/coach/37590075/vanni-sartini/,V. Sartini,Vanni Sartini,,27,Italy,https://cdn.sportmonks.com/images//soccer/coaches/27/37590075.png
+37590394,/coach/37590394/akio-kogiku/,A. Kogiku,Akio Kogiku,1975-07-07,163,Japan,
+37590437,/coach/37590437/diego-flores/,D. Flores,Diego Flores,,52,Argentina,
+37593553,/coach/37593553/walid-regragui/,W. Regragui,Walid Regragui,,18,France,
+37593601,/coach/37593601/juan-alejandro-acejo-rodriguez/,J. Acejo Rodriguez,Juan Alejandro Acejo Rodriguez,1978-01-24,45,Spain,
+37594835,/coach/37594835/ionut-chirila/,I. Chirilă,Ionuț Chirilă,1966-01-09,39,Romania,
+37600719,/coach/37600719/carsten-muller/,C. Müller,Carsten Müller,1971-10-03,21,Germany,
+37602008,/coach/37602008/turgay-altay/,T. Altay,Turgay Altay,1980-02-16,48,Turkey,
+37602353,/coach/37602353/nizamettin-set/,N. Set,Nizamettin Set,1966-01-19,48,Turkey,
+37602374,/coach/37602374/miguel-rondelli/,M. Rondelli,Miguel Rondelli,,52,Argentina,
+37606429,/coach/37606429/grzegorz-mokry/,G. Mokry,Grzegorz Mokry,1985-01-19,37,Poland,
+37608726,/coach/37608726/nicolas-estevez-martinez/,N. Estévez Martínez,Nicolás Estévez Martínez,1980-01-29,45,Spain,https://cdn.sportmonks.com/images//soccer/coaches/22/37608726.png
+37608741,/coach/37608741/alper-kayabunar/,A. Kayabunar,Alper Kayabunar,1985-11-29,21,Germany,
+37609239,/coach/37609239/rodrigo-venegas/,R. Venegas,Rodrigo Venegas,,55,Chile,
+37610194,/coach/37610194/paolo-vanoli/,P. Vanoli,Paolo Vanoli,1972-08-12,27,Italy,
+37614914,/coach/37614914/martin-anselmi/,M. Anselmi,Martin Anselmi,,52,Argentina,
+37615629,/coach/37615629/serkan-ozbalta/,S. Özbalta,Serkan Özbalta,1979-02-05,48,Turkey,
+37618185,/coach/37618185/alain-negre/,A. Negre,Alain Negre,,18,France,
+37618984,/coach/37618984/kevin-doherty/,K. Doherty,Kevin Doherty,1980-04-18,25,Republic of Ireland,
+37618991,/coach/37618991/rikizo-matsuhashi/,R. Matsuhashi,Rikizo Matsuhashi,1968-08-22,163,Japan,
+37620993,/coach/37620993/jung-hyo-lee/,J. Lee,Jung-Hyo Lee,1975-07-23,167,Korea Republic,
+37621005,/coach/37621005/marcelo-venturelli/,M. Venturelli,Marcelo Venturelli,,52,Argentina,
+37621959,/coach/37621959/roel-coumans/,R. Coumans,Roel Coumans,1970-08-23,34,Netherlands,
+37624470,/coach/37624470/tim-gorner/,T. Görner,Tim Görner,,21,Germany,
+37624473,/coach/37624473/jens-tiemann-gorny/,J. Tiemann-Gorny,Jens Tiemann-Gorny,1979-03-07,21,Germany,
+37625119,/coach/37625119/jawad-al-jebouri/,J. Al Jebouri,Jawad Al Jebouri,1991-06-14,46,Sweden,
+37625124,/coach/37625124/edson-argenis-tortolero-roman/,E. Tortolero Román,Edson Argenis Tortolero Román,1971-08-27,61,Venezuela,
+37625768,/coach/37625768/julio-cesar-vaccari/,J. Vaccari,Julio César Vaccari,1980-07-09,52,Argentina,
+37626398,/coach/37626398/alex-covelo/,A. Covelo,Alex Covelo,1978-05-19,45,Spain,
+37629634,/coach/37629634/alex-morris/,A. Morris,Alex Morris,1983-10-05,14,England,
+37629650,/coach/37629650/dermot-lennon/,D. Lennon,Dermot Lennon,,25,Republic of Ireland,
+37630732,/coach/37630732/jose-omar-feitosa-alves/,J. Feitosa Alves,José Omar Feitosa Alves,1967-03-08,54,Brazil,
+37631748,/coach/37631748/humberto-ovelar/,H. Ovelar,Humberto Ovelar,1969-12-24,58,Paraguay,
+37632631,/coach/37632631/david-doniga-lara/,D. Dóniga Lara,David Dóniga Lara,1981-09-07,45,Spain,
+37633958,/coach/37633958/michael-beale/,M. Beale,Michael Beale,1980-09-04,14,England,
+37634995,/coach/37634995/carlos-horacio-compagnucci/,C. Compagnucci,Carlos Horacio Compagnucci,1968-08-06,52,Argentina,
+37637489,/coach/37637489/robin-veldeman/,R. Veldeman,Robin Veldeman,,34,Netherlands,
+37639917,/coach/37639917/christian-lattanzio/,C. Lattanzio,Christian Lattanzio,1971-09-10,27,Italy,
+37640252,/coach/37640252/bingen-arostegui-guibelondo/,B. Arostegui Guibelondo,Bingen Arostegui Guibelondo,1969-11-08,45,Spain,
+37640409,/coach/37640409/jang-gwan-lee/,J. Lee,Jang-Gwan Lee,1974-07-04,167,Korea Republic,
+37640959,/coach/37640959/fabian-avendano/,F. Avendaño,Fabián Avendaño,,55,Chile,
+37640962,/coach/37640962/patrick-rojas/,P. Rojas,Patrick Rojas,,55,Chile,
+37646219,/coach/37646219/philipp-gasde/,P. Gasde,Philipp Gasde,1983-01-12,21,Germany,
+37648549,/coach/37648549/edgar-ospina-echeverry/,E. Ospina Echeverry,Edgar Ospina Echeverry,1956-01-12,56,Colombia,
+37649045,/coach/37649045/julio-rodolfo-neme-moreno/,J. Neme Moreno,Julio Rodolfo Neme Moreno,1964-09-18,60,Uruguay,
+37649082,/coach/37649082/abel-eduardo-balbo/,A. Eduardo Balbo,Abel Eduardo Balbo,1966-06-01,52,Argentina,
+37651957,/coach/37651957/youssef-manai/,Y. Manai,Youssef Manai,1975-09-06,145,Tunisia,
+37655213,/coach/37655213/stephane-paganelli/,S. Paganelli,Stéphane Paganelli,1976-05-20,18,France,
+37656417,/coach/37656417/chung-kyung-ho/,C. Kyung-Ho,Chung Kyung-Ho,,167,Korea Republic,
+37656591,/coach/37656591/antonio-mur/,A. Mur,Antonio Mur,1964-04-29,52,Argentina,
+37662210,/coach/37662210/orlando-ribeiro-de-oliveira/,O. Ribeiro de Oliveira,Orlando Ribeiro de Oliveira,1967-01-09,54,Brazil,
+37663858,/coach/37663858/oscar-villegas/,?. Villegas,Óscar Villegas,1970-04-15,53,Bolivia,
+37664674,/coach/37664674/galileo-percovich/,G. Percovich,Galileo Percovich,1968-04-20,60,Uruguay,
+37664710,/coach/37664710/marcelo-saralegui-arregin/,M. Saralegui Arregín,Marcelo Saralegui Arregín,1971-05-18,60,Uruguay,
+37664752,/coach/37664752/maximiliano-rama/,M. Rama,Maximiliano Rama,,52,Argentina,
+37666404,/coach/37666404/matheus-joseph/,M. Joseph,Matheus Joseph,,37,Poland,
+37666625,/coach/37666625/michael-wimmer/,M. Wimmer,Michael Wimmer,1980-06-18,21,Germany,
