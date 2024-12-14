@@ -33,18 +33,18 @@ class FIFAAnalyzer:
         self.financial_tab = ttk.Frame(self.notebook)
         
         # Add tabs to notebook
-        self.notebook.add(self.dashboard_tab, text='Dashboard')
-        self.notebook.add(self.player_comparison_tab, text='Player Comparison')
-        self.notebook.add(self.performance_tab, text='Performance Analysis')
-        self.notebook.add(self.financial_tab, text='Financial Analysis')
+        self.notebook.add(self.dashboard_tab, text='Analysis')
+        # self.notebook.add(self.player_comparison_tab, text='Player Comparison')
+        # self.notebook.add(self.performance_tab, text='Performance Analysis')
+        # self.notebook.add(self.financial_tab, text='Financial Analysis')
         
         self.notebook.pack(expand=True, fill='both')
         
         # Initialize tabs
         self.init_dashboard()
-        self.init_player_comparison()
-        self.init_performance()
-        self.init_financial()
+        # self.init_player_comparison()
+        # self.init_performance()
+        # self.init_financial()
     
     def init_dashboard(self):
         # Create frames for dashboard layout
@@ -60,46 +60,54 @@ class FIFAAnalyzer:
         league_dropdown.set('All')
         
         # Create plots frame
-        plots_frame = ttk.Frame(self.dashboard_tab)
-        plots_frame.pack(expand=True, fill='both', padx=5, pady=5)
+        self.plots_frame = ttk.Frame(self.dashboard_tab)
+        self.plots_frame.pack(expand=True, fill='both', padx=5, pady=5)
         
         # Add initial plots
-        self.create_dashboard_plots(plots_frame)
+        self.create_dashboard_plots()
     
-    def create_dashboard_plots(self, frame):
-        fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(12, 5))
-        # Overall rating distribution
-        ax1.hist(self.df['overall'], bins=30, color='#2ecc71')
+    def create_dashboard_plots(self):
+        # Create figure with 2 rows: top row for original plots, bottom row for abilities
+        fig = plt.figure(figsize=(15, 10))
+        gs = fig.add_gridspec(2, 5)
+
+        # Top row: Original plots (spanning 2 columns each)
+        ax1 = fig.add_subplot(gs[0, :2])
+        ax2 = fig.add_subplot(gs[0, 2:4])
+    
+        # Original plots
+        ax1.hist(self.df['overall'], bins=30, color='#2ecc71', alpha=0.7)
         ax1.set_title('Overall Rating Distribution')
         ax1.set_xlabel('Overall Rating')
-        ax1.set_ylabel('Count')
-
-        # Age vs Overall scatter
+        ax1.set_ylabel('Number of Players')
+        ax1.grid(True, alpha=0.3)
+    
         ax2.scatter(self.df['age'], self.df['overall'], alpha=0.5, color='#3498db')
         ax2.set_title('Age vs Overall Rating')
         ax2.set_xlabel('Age')
         ax2.set_ylabel('Overall Rating')
-        canvas = FigureCanvasTkAgg(fig, frame)
-        canvas.draw()
-        canvas.get_tk_widget().pack(expand=True, fill='both')
+        ax2.grid(True, alpha=0.3)
 
+        # Bottom row: Ability distributions
+        abilities = ['pace', 'shooting', 'passing', 'dribbling', 'defending']
+        for idx, ability in enumerate(abilities):
+            ax = fig.add_subplot(gs[1, idx])
+            ax.hist(self.df[ability], bins=20, color='skyblue', edgecolor='black')
+            ax.set_title(f'{ability.capitalize()}')
+            ax.set_xlabel('Rating')
+            ax.tick_params(labelsize=8)
+            ax.grid(True, linestyle='--', alpha=0.5)
+
+        # Adjust layout
+        plt.tight_layout()
+    
+        # Create canvas
+        self.canvas = FigureCanvasTkAgg(fig, self.plots_frame)
+        self.canvas.draw()
+        self.canvas.get_tk_widget().pack(expand=True, fill='both')
     def init_player_comparison(self):
         # Player comparison functionality
-        control_frame = ttk.Frame(self.player_comparison_tab)
-        control_frame.pack(side='top', fill='x', padx=5, pady=5)
-        
-        # Add player selection dropdowns
-        players = self.df['short_name'].tolist()
-        self.player1_var = tk.StringVar()
-        self.player2_var = tk.StringVar()
-        
-        ttk.Label(control_frame, text="Player 1:").pack(side='left')
-        player1_dropdown = ttk.Combobox(control_frame, textvariable=self.player1_var, values=players)
-        player1_dropdown.pack(side='left', padx=5)
-        
-        ttk.Label(control_frame, text="Player 2:").pack(side='left')
-        player2_dropdown = ttk.Combobox(control_frame, textvariable=self.player2_var, values=players)
-        player2_dropdown.pack(side='left', padx=5)
+        pass
 
     def init_performance(self):
         # Performance analysis functionality
