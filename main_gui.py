@@ -4,6 +4,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 from config import *
+import sys
 data_path = PLAYER_DATA_PATH
 
 class FIFAAnalyzer:
@@ -28,37 +29,28 @@ class FIFAAnalyzer:
         
         # Create tabs
         self.dashboard_tab = ttk.Frame(self.notebook)
-        self.player_comparison_tab = ttk.Frame(self.notebook)
-        self.performance_tab = ttk.Frame(self.notebook)
         self.financial_tab = ttk.Frame(self.notebook)
         
         # Add tabs to notebook
         self.notebook.add(self.dashboard_tab, text='Analysis')
-        # self.notebook.add(self.player_comparison_tab, text='Player Comparison')
-        # self.notebook.add(self.performance_tab, text='Performance Analysis')
-        # self.notebook.add(self.financial_tab, text='Financial Analysis')
+        self.notebook.add(self.financial_tab, text='Financial Analysis')
         
         self.notebook.pack(expand=True, fill='both')
         
         # Initialize tabs
         self.init_dashboard()
-        # self.init_player_comparison()
-        # self.init_performance()
-        # self.init_financial()
+        self.init_financial()
     
     def init_dashboard(self):
         # Create frames for dashboard layout
         control_frame = ttk.Frame(self.dashboard_tab)
         control_frame.pack(side='top', fill='x', padx=5, pady=5)
         
-        # Add dropdown for league selection
-        ttk.Label(control_frame, text="Select League:").pack(side='left')
-        leagues = ['All'] + self.df['league_name'].unique().tolist()
-        self.league_var = tk.StringVar()
-        league_dropdown = ttk.Combobox(control_frame, textvariable=self.league_var, values=leagues)
-        league_dropdown.pack(side='left', padx=5)
-        league_dropdown.set('All')
         
+        # Add exit button
+        exit_button = ttk.Button(control_frame, text="Exit", command=lambda: sys.exit())
+        exit_button.pack(side='right', padx=5)
+
         # Create plots frame
         self.plots_frame = ttk.Frame(self.dashboard_tab)
         self.plots_frame.pack(expand=True, fill='both', padx=5, pady=5)
@@ -105,17 +97,38 @@ class FIFAAnalyzer:
         self.canvas = FigureCanvasTkAgg(fig, self.plots_frame)
         self.canvas.draw()
         self.canvas.get_tk_widget().pack(expand=True, fill='both')
-    def init_player_comparison(self):
-        # Player comparison functionality
-        pass
-
-    def init_performance(self):
-        # Performance analysis functionality
-        pass
-
+    
     def init_financial(self):
-        # Financial analysis functionality
-        pass
+        # Create frame for financial analysis
+        self.financial_frame = ttk.Frame(self.financial_tab)
+        self.financial_frame.pack(expand=True, fill='both', padx=5, pady=5)
+        
+        # Create financial plots
+        self.create_financial_plots()
+
+    def create_financial_plots(self):
+        # Create figure for financial analysis
+        fig = plt.figure(figsize=(15, 10))
+        gs = fig.add_gridspec(1, 5)
+
+        # Columns to analyze against wage_eur
+        abilities = ['pace', 'shooting', 'passing', 'dribbling', 'defending']
+        for idx, ability in enumerate(abilities):
+            ax = fig.add_subplot(gs[0, idx])
+            ax.scatter(self.df['wage_eur'], self.df[ability], alpha=0.5, color='green')
+            ax.set_title(f'Wage vs {ability.capitalize()}')
+            ax.set_xlabel('Wage (EUR)')
+            ax.set_ylabel(ability.capitalize())
+            ax.tick_params(labelsize=8)
+            ax.grid(True, linestyle='--', alpha=0.5)
+
+        # Adjust layout
+        plt.tight_layout()
+    
+        # Create canvas
+        self.canvas = FigureCanvasTkAgg(fig, self.financial_frame)
+        self.canvas.draw()
+        self.canvas.get_tk_widget().pack(expand=True, fill='both')
 
 if __name__ == "__main__":
     root = tk.Tk()
